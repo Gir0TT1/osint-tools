@@ -1,2 +1,2 @@
 # OSINT
-OSINT Tootls
+OSINT Tools
