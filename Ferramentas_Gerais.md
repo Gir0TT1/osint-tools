@@ -1,30 +1,30 @@
 # Ferramentas Gerais
 
-- - [https://github.com/GONZOsint/gvision](https://github.com/GONZOsint/gvision)
-- - [https://talosintelligence.com](https://talosintelligence.com)
-- - [https://github.com/cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT)
-- - [https://flashpoint.io/blog/osint-tools-library/](https://flashpoint.io/blog/osint-tools-library/)
-- - [https://github.com/cqcore/Website-OSINT](https://github.com/cqcore/Website-OSINT)
-- - [https://start.me/p/Pwy0X4/osint-inception](https://start.me/p/Pwy0X4/osint-inception)
-- - [https://osint.industries/](https://osint.industries/)
-- - [https://osint.rocks/](https://osint.rocks/)
-- - [https://start.me/p/DPYPMz/the-ultimate-osint-collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
-- - [https://start.me/p/lL98AO/osint-smart-framework](https://start.me/p/lL98AO/osint-smart-framework)
-- - [https://goosint.com/](https://goosint.com/)
-- - [https://github.com/wddadk/OSINT-for-countries](https://github.com/wddadk/OSINT-for-countries)
-- - [https://www.osintcurio.us](https://www.osintcurio.us)
-- - [https://www.osintme.com](https://www.osintme.com)
-- - [https://osintnewsletter.com](https://osintnewsletter.com)
-- - [https://osintdojo.com](https://osintdojo.com)
-- - [https://osintforall.in/](https://osintforall.in/)
-- - [https://kasescenarios.com/osint-training/](https://kasescenarios.com/osint-training/)
-- - [https://gralhix.com/list-of-osint-exercises/](https://gralhix.com/list-of-osint-exercises/)
-- - [https://academy.tcm-sec.com/p/osint-fundamentals](https://academy.tcm-sec.com/p/osint-fundamentals)
-- - [https://www.osintcombine.com/training](https://www.osintcombine.com/training)
-- - [https://academy.theosintion.com/courses/](https://academy.theosintion.com/courses/)
-- - [https://www.myosint.training/collections](https://www.myosint.training/collections)
-- - [https://www.tactical-osint-academy.com/osint-training-eng](https://www.tactical-osint-academy.com/osint-training-eng)
-- - [https://www.uk-osint.net/documents/ROCIC_International_Names.pdf](https://www.uk-osint.net/documents/ROCIC_International_Names.pdf)
-- - [https://www.uk-osint.net/documents/Guide-to-Names-and-Naming-Practices.pdf](https://www.uk-osint.net/documents/Guide-to-Names-and-Naming-Practices.pdf)
-- - [https://github.com/cqcore/WiFi-OSINT](https://github.com/cqcore/WiFi-OSINT)
-- - [https://github.com/CScorza/OSINT-IA](https://github.com/CScorza/OSINT-IA)
+- [Github](https://github.com/GONZOsint/gvision](https://github.com/GONZOsint/gvision) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Talosintelligence](https://talosintelligence.com](https://talosintelligence.com) — Ferramenta ou serviço fornecido pelo domínio talosintelligence.com.
+- [Github](https://github.com/cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Flashpoint](https://flashpoint.io/blog/osint-tools-library/](https://flashpoint.io/blog/osint-tools-library/) — Ferramenta ou serviço fornecido pelo domínio flashpoint.io.
+- [Github](https://github.com/cqcore/Website-OSINT](https://github.com/cqcore/Website-OSINT) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Start](https://start.me/p/Pwy0X4/osint-inception](https://start.me/p/Pwy0X4/osint-inception) — Ferramenta ou serviço fornecido pelo domínio start.me.
+- [Osint](https://osint.industries/](https://osint.industries/) — Ferramenta ou serviço fornecido pelo domínio osint.industries.
+- [Osint](https://osint.rocks/](https://osint.rocks/) — Ferramenta ou serviço fornecido pelo domínio osint.rocks.
+- [Start](https://start.me/p/DPYPMz/the-ultimate-osint-collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) — Ferramenta ou serviço fornecido pelo domínio start.me.
+- [Start](https://start.me/p/lL98AO/osint-smart-framework](https://start.me/p/lL98AO/osint-smart-framework) — Ferramenta ou serviço fornecido pelo domínio start.me.
+- [Goosint](https://goosint.com/](https://goosint.com/) — Ferramenta ou serviço fornecido pelo domínio goosint.com.
+- [Github](https://github.com/wddadk/OSINT-for-countries](https://github.com/wddadk/OSINT-for-countries) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Osintcurio](https://www.osintcurio.us](https://www.osintcurio.us) — Ferramenta ou serviço fornecido pelo domínio www.osintcurio.us.
+- [Osintme](https://www.osintme.com](https://www.osintme.com) — Ferramenta ou serviço fornecido pelo domínio www.osintme.com.
+- [Osintnewsletter](https://osintnewsletter.com](https://osintnewsletter.com) — Ferramenta ou serviço fornecido pelo domínio osintnewsletter.com.
+- [Osintdojo](https://osintdojo.com](https://osintdojo.com) — Ferramenta ou serviço fornecido pelo domínio osintdojo.com.
+- [Osintforall](https://osintforall.in/](https://osintforall.in/) — Ferramenta ou serviço fornecido pelo domínio osintforall.in.
+- [Kasescenarios](https://kasescenarios.com/osint-training/](https://kasescenarios.com/osint-training/) — Ferramenta ou serviço fornecido pelo domínio kasescenarios.com.
+- [Gralhix](https://gralhix.com/list-of-osint-exercises/](https://gralhix.com/list-of-osint-exercises/) — Ferramenta ou serviço fornecido pelo domínio gralhix.com.
+- [Academy](https://academy.tcm-sec.com/p/osint-fundamentals](https://academy.tcm-sec.com/p/osint-fundamentals) — Ferramenta ou serviço fornecido pelo domínio academy.tcm-sec.com.
+- [Osintcombine](https://www.osintcombine.com/training](https://www.osintcombine.com/training) — Ferramenta ou serviço fornecido pelo domínio www.osintcombine.com.
+- [Academy](https://academy.theosintion.com/courses/](https://academy.theosintion.com/courses/) — Ferramenta ou serviço fornecido pelo domínio academy.theosintion.com.
+- [Myosint](https://www.myosint.training/collections](https://www.myosint.training/collections) — Ferramenta ou serviço fornecido pelo domínio www.myosint.training.
+- [Tactical-osint-academy](https://www.tactical-osint-academy.com/osint-training-eng](https://www.tactical-osint-academy.com/osint-training-eng) — Ferramenta ou serviço fornecido pelo domínio www.tactical-osint-academy.com.
+- [Uk-osint](https://www.uk-osint.net/documents/ROCIC_International_Names.pdf](https://www.uk-osint.net/documents/ROCIC_International_Names.pdf) — Ferramenta ou serviço fornecido pelo domínio www.uk-osint.net.
+- [Uk-osint](https://www.uk-osint.net/documents/Guide-to-Names-and-Naming-Practices.pdf](https://www.uk-osint.net/documents/Guide-to-Names-and-Naming-Practices.pdf) — Ferramenta ou serviço fornecido pelo domínio www.uk-osint.net.
+- [Github](https://github.com/cqcore/WiFi-OSINT](https://github.com/cqcore/WiFi-OSINT) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Github](https://github.com/CScorza/OSINT-IA](https://github.com/CScorza/OSINT-IA) — Ferramenta ou serviço fornecido pelo domínio github.com.

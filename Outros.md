@@ -1,487 +1,487 @@
 # Outros
 
-- - [https://bit.ly/37BvmGF](https://bit.ly/37BvmGF)
-- - [https://search.yahoo.com/](https://search.yahoo.com/)
-- - [https://search.yahoo.com/web/advanced](https://search.yahoo.com/web/advanced)
-- - [http://www.baidu.com/](http://www.baidu.com/)
-- - [https://swisscows.com/](https://swisscows.com/)
-- - [https://www.mojeek.com/](https://www.mojeek.com/)
-- - [https://startpage.com](https://startpage.com)
-- - [https://gibiru.com/](https://gibiru.com/)
-- - [https://search.disconnect.me/](https://search.disconnect.me/)
-- - [https://www.etools.ch/](https://www.etools.ch/)
-- - [https://search.carrot2.org/#/search/web](https://search.carrot2.org/#/search/web)
-- - [https://isearchfrom.com](https://isearchfrom.com)
-- - [https://www.searchenginecolossus.com](https://www.searchenginecolossus.com)
-- - [https://2lingual.com/](https://2lingual.com/)
-- - [https://www.searchenginesindex.com/](https://www.searchenginesindex.com/)
-- - [https://start.me/p/b56G5Q/search-engines](https://start.me/p/b56G5Q/search-engines)
-- - [http://advangle.com/](http://advangle.com/)
-- - [https://berify.com/](https://berify.com/)
-- - [https://www.historypin.org/en/](https://www.historypin.org/en/)
-- - [https://rootabout.com/](https://rootabout.com/)
-- - [https://lenso.ai/pt](https://lenso.ai/pt)
-- - [https://www.newocr.com/](https://www.newocr.com/)
-- - [https://www.i2ocr.com/](https://www.i2ocr.com/)
-- - [https://pimeyes.com](https://pimeyes.com)
-- - [https://aws.amazon.com/pt/rekognition](https://aws.amazon.com/pt/rekognition)
-- - [https://www.photopea.com/](https://www.photopea.com/)
-- - [https://imgops.com/](https://imgops.com/)
-- - [https://www.myheritage.com.br/photo-enhancer](https://www.myheritage.com.br/photo-enhancer)
-- - [https://segment-anything.com/](https://segment-anything.com/)
-- - [https://www.watermarkremover.io/pt](https://www.watermarkremover.io/pt)
-- - [https://www.myfonts.com/pages/whatthefont](https://www.myfonts.com/pages/whatthefont)
-- - [https://imgops.com/](https://imgops.com/)
-- - [https://www.whatfontis.com/](https://www.whatfontis.com/)
-- - [https://github.com/GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)
-- - [https://github.com/spipm/Depix](https://github.com/spipm/Depix)
-- - [https://www.aperisolve.com](https://www.aperisolve.com)
-- - [https://www.aperisolve.com/cheatsheet](https://www.aperisolve.com/cheatsheet)
-- - [https://camerasummary.com/](https://camerasummary.com/)
-- - [https://www.stolencamerafinder.com/](https://www.stolencamerafinder.com/)
-- - [http://www.cameratrace.com/trace](http://www.cameratrace.com/trace)
-- - [https://timestamp.online](https://timestamp.online)
-- - [https://www.timestamp-converter.com](https://www.timestamp-converter.com)
-- - [http://fotoforensics.com](http://fotoforensics.com)
-- - [http://useragentstring.com/pages/useragentstring.php](http://useragentstring.com/pages/useragentstring.php)
-- - [https://29a.ch/photo-forensics/#forensic-magnifier](https://29a.ch/photo-forensics/#forensic-magnifier)
-- - [https://getpmd.iptc.org/getiptcpmd.html](https://getpmd.iptc.org/getiptcpmd.html)
-- - [https://www.getghiro.org](https://www.getghiro.org)
-- - [https://docs.polyswarm.io/](https://docs.polyswarm.io/)
-- - [https://app.illuminarty.ai/](https://app.illuminarty.ai/)
-- - [https://scenex.jina.ai/](https://scenex.jina.ai/)
-- - [https://www.aiornot.com/](https://www.aiornot.com/)
-- - [https://outlinetts.com/](https://outlinetts.com/)
-- - [https://12ft.io](https://12ft.io)
-- - [https://leiaisso.net](https://leiaisso.net)
-- - [https://1ft.io/](https://1ft.io/)
-- - [https://www.smry.ai/](https://www.smry.ai/)
-- - [https://www.printfriendly.com/](https://www.printfriendly.com/)
-- - [https://archive.org/](https://archive.org/)
-- - [http://www.cachedpages.com](http://www.cachedpages.com)
-- - [https://cachedview.com](https://cachedview.com)
-- - [http://timetravel.mementoweb.org](http://timetravel.mementoweb.org)
-- - [https://archive.ph](https://archive.ph)
-- - [http://archive.is/](http://archive.is/)
-- - [https://oldweb.today/](https://oldweb.today/)
-- - [https://carbondate.cs.odu.edu/](https://carbondate.cs.odu.edu/)
-- - [https://theoldnet.com/](https://theoldnet.com/)
-- - [https://www.copyscape.com/](https://www.copyscape.com/)
-- - [https://archivebox.io/](https://archivebox.io/)
-- - [https://cipher387.github.io/quickcacheandarchivesearch/](https://cipher387.github.io/quickcacheandarchivesearch/)
-- - [https://consultanumero.abrtelecom.com.br/](https://consultanumero.abrtelecom.com.br/)
-- - [https://www.truecaller.com](https://www.truecaller.com)
-- - [https://sync.me/pt/](https://sync.me/pt/)
-- - [https://www.whoseno.com/](https://www.whoseno.com/)
-- - [https://consultaoperadora.com.br](https://consultaoperadora.com.br)
-- - [https://cadastropre.com.br/#/consulta](https://cadastropre.com.br/#/consulta)
-- - [http://www.coberturacelular.com.br/](http://www.coberturacelular.com.br/)
-- - [https://www.teleco.com.br/cobertura.asp](https://www.teleco.com.br/cobertura.asp)
-- - [https://www.vivo.com.br/para-voce/por-que-vivo/qualidade/cobertura](https://www.vivo.com.br/para-voce/por-que-vivo/qualidade/cobertura)
-- - [https://www.oi.com.br/oi/oi-pra-voce/planos-servicos/cobertura](https://www.oi.com.br/oi/oi-pra-voce/planos-servicos/cobertura)
-- - [https://opencellid.org/](https://opencellid.org/)
-- - [https://defastra.com/](https://defastra.com/)
-- - [https://globfone.com/send-text/](https://globfone.com/send-text/)
-- - [https://www.2ndline.co/](https://www.2ndline.co/)
-- - [https://smsreceivefree.com/](https://smsreceivefree.com/)
-- - [https://sms24.me/](https://sms24.me/)
-- - [https://receive-smss.com/](https://receive-smss.com/)
-- - [https://temp-sms.org/](https://temp-sms.org/)
-- - [https://onlinesim.net](https://onlinesim.net)
-- - [http://smsget.net](http://smsget.net)
-- - [https://sms-online.co](https://sms-online.co)
-- - [https://catchsms.com](https://catchsms.com)
-- - [http://sms-receive.net](http://sms-receive.net)
-- - [http://sms.sellaite.com](http://sms.sellaite.com)
-- - [http://receivefreesms.net](http://receivefreesms.net)
-- - [https://receive-a-sms.com](https://receive-a-sms.com)
-- - [http://receivesmsonline.in](http://receivesmsonline.in)
-- - [http://receivefreesms.com](http://receivefreesms.com)
-- - [http://receivesmsonline.me](http://receivesmsonline.me)
-- - [https://smsreceivefree.com](https://smsreceivefree.com)
-- - [https://www.receivesmsonline.net](https://www.receivesmsonline.net)
-- - [https://textbelt.com](https://textbelt.com)
-- - [https://who.is/](https://who.is/)
-- - [https://www.whoxy.com/](https://www.whoxy.com/)
-- - [https://spyonweb.com/](https://spyonweb.com/)
-- - [https://pulsedive.com](https://pulsedive.com)
-- - [https://sitereport.netcraft.com](https://sitereport.netcraft.com)
-- - [https://urlscan.io/](https://urlscan.io/)
-- - [https://builtwith.com/](https://builtwith.com/)
-- - [https://securitytrails.com](https://securitytrails.com)
-- - [https://analyzeid.com/](https://analyzeid.com/)
-- - [https://leakix.net](https://leakix.net)
-- - [https://themarkup.org/blacklight](https://themarkup.org/blacklight)
-- - [https://dfir.blog/unfurl/](https://dfir.blog/unfurl/)
-- - [https://webmeup.com](https://webmeup.com)
-- - [https://moz.com/link-explorer](https://moz.com/link-explorer)
-- - [https://ahrefs.com/backlink-checker](https://ahrefs.com/backlink-checker)
-- - [https://neilpatel.com/br/backlinks/](https://neilpatel.com/br/backlinks/)
-- - [https://smallseotools.com/backlink-checker/](https://smallseotools.com/backlink-checker/)
-- - [https://websiteseochecker.com/backlink-checker/](https://websiteseochecker.com/backlink-checker/)
-- - [https://monitorbacklinks.com/seo-tools/backlink-checker](https://monitorbacklinks.com/seo-tools/backlink-checker)
-- - [https://www.thehoth.com/backlinks-checker/](https://www.thehoth.com/backlinks-checker/)
-- - [https://www.backlinkwatch.com/index.php](https://www.backlinkwatch.com/index.php)
-- - [https://website.informer.com/](https://website.informer.com/)
-- - [https://urlscan.io/](https://urlscan.io/)
-- - [https://www.easycounter.com/](https://www.easycounter.com/)
-- - [https://www.nslookup.io/](https://www.nslookup.io/)
-- - [https://checkforcloudflare.selesti.com](https://checkforcloudflare.selesti.com)
-- - [https://ip.teoh.io/vpn-detection](https://ip.teoh.io/vpn-detection)
-- - [https://host.io](https://host.io)
-- - [https://hostingchecker.com](https://hostingchecker.com)
-- - [https://iknowwhatyoudownload.com/](https://iknowwhatyoudownload.com/)
-- - [https://www.activecampaign.com/dkim-spf-check/](https://www.activecampaign.com/dkim-spf-check/)
-- - [https://mxtoolbox.com/SuperTool.aspx#](https://mxtoolbox.com/SuperTool.aspx#)
-- - [https://www.diggui.com/](https://www.diggui.com/)
-- - [https://ahrefs.com/website-authority-checker](https://ahrefs.com/website-authority-checker)
-- - [http://www.dachecker.org/](http://www.dachecker.org/)
-- - [https://check.spamhaus.org](https://check.spamhaus.org)
-- - [https://sitelookup.mcafee.com](https://sitelookup.mcafee.com)
-- - [https://urlfiltering.paloaltonetworks.com/query/](https://urlfiltering.paloaltonetworks.com/query/)
-- - [https://www.fortiguard.com/iprep](https://www.fortiguard.com/iprep)
-- - [https://global.sitesafety.trendmicro.com](https://global.sitesafety.trendmicro.com)
-- - [https://www.brightcloud.com/tools/url-ip-lookup.php](https://www.brightcloud.com/tools/url-ip-lookup.php)
-- - [https://mxtoolbox.com/blacklists.aspx](https://mxtoolbox.com/blacklists.aspx)
-- - [https://multirbl.valli.org](https://multirbl.valli.org)
-- - [https://urlcat.checkpoint.com/urlcat/](https://urlcat.checkpoint.com/urlcat/)
-- - [http://sitereview.bluecoat.com/#/](http://sitereview.bluecoat.com/#/)
-- - [https://archive.lightspeedsystems.com](https://archive.lightspeedsystems.com)
-- - [https://portscanner.online/](https://portscanner.online/)
-- - [https://urlhaus-api.abuse.ch/](https://urlhaus-api.abuse.ch/)
-- - [https://ipinfodb.com](https://ipinfodb.com)
-- - [https://www.ipfingerprints.com](https://www.ipfingerprints.com)
-- - [https://www.yougetsignal.com/tools/web-sites-on-web-server/](https://www.yougetsignal.com/tools/web-sites-on-web-server/)
-- - [https://www.whatismyip.com/ip-address-lookup/](https://www.whatismyip.com/ip-address-lookup/)
-- - [https://www.ipaddressguide.com/cidr](https://www.ipaddressguide.com/cidr)
-- - [https://inteltechniques.com/tools/IP.html](https://inteltechniques.com/tools/IP.html)
-- - [https://prowl.lupovis.io/](https://prowl.lupovis.io/)
-- - [https://hackertarget.com/ip-tools/](https://hackertarget.com/ip-tools/)
-- - [https://crt.sh/](https://crt.sh/)
-- - [https://www.entrust.com/digital-security/certificate-solutions](https://www.entrust.com/digital-security/certificate-solutions)
-- - [https://app.netlas.io/certs/](https://app.netlas.io/certs/)
-- - [https://browserleaks.com/](https://browserleaks.com/)
-- - [https://www.deviceinfo.me/](https://www.deviceinfo.me/)
-- - [https://coveryourtracks.eff.org](https://coveryourtracks.eff.org)
-- - [https://amiunique.org](https://amiunique.org)
-- - [https://inteltechniques.com/logger/](https://inteltechniques.com/logger/)
-- - [https://privacytests.org/](https://privacytests.org/)
-- - [https://canarytokens.org/nest/](https://canarytokens.org/nest/)
-- - [https://grabify.link/](https://grabify.link/)
-- - [https://iplogger.org/](https://iplogger.org/)
-- - [https://inteltechniques.com/logger/](https://inteltechniques.com/logger/)
-- - [https://linkexpander.com](https://linkexpander.com)
-- - [http://checkshorturl.com](http://checkshorturl.com)
-- - [https://getlinkinfo.com](https://getlinkinfo.com)
-- - [https://wheregoes.com/](https://wheregoes.com/)
-- - [https://redirectdetective.com](https://redirectdetective.com)
-- - [https://shorteners.grayhatwarfare.com/](https://shorteners.grayhatwarfare.com/)
-- - [https://github.com/public-apis/public-apis/blob/master/README.md](https://github.com/public-apis/public-apis/blob/master/README.md)
-- - [http://any-api.com](http://any-api.com)
-- - [https://apilist.fun](https://apilist.fun)
-- - [https://apis.guru/openapi-directory](https://apis.guru/openapi-directory)
-- - [http://apis.io](http://apis.io)
-- - [https://www.programmableweb.com](https://www.programmableweb.com)
-- - [https://public-apis.io](https://public-apis.io)
-- - [https://rapidapi.com/blog/directory](https://rapidapi.com/blog/directory)
-- - [https://serpapi.com](https://serpapi.com)
-- - [https://github.com/kr-stn/awesome-sentinel](https://github.com/kr-stn/awesome-sentinel)
-- - [https://thor-sec.com/tutorial/colab_hashcrack/](https://thor-sec.com/tutorial/colab_hashcrack/)
-- - [https://tunnelsup.com/hash-analyzer/](https://tunnelsup.com/hash-analyzer/)
-- - [https://hashes.com/en/decrypt/hash](https://hashes.com/en/decrypt/hash)
-- - [https://hashes.com/en/tools/hash_identifier](https://hashes.com/en/tools/hash_identifier)
-- - [https://crackstation.net](https://crackstation.net)
-- - [https://hashes.org](https://hashes.org)
-- - [https://ntlm.pw/passwordcheck](https://ntlm.pw/passwordcheck)
-- - [https://esolangs.org/wiki/Language_list](https://esolangs.org/wiki/Language_list)
-- - [https://codebeautify.org/](https://codebeautify.org/)
-- - [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef)
-- - [https://ifttt.com](https://ifttt.com)
-- - [https://dfir.blog/unfurl/](https://dfir.blog/unfurl/)
-- - [https://publicwww.com](https://publicwww.com)
-- - [https://searchcode.com](https://searchcode.com)
-- - [https://regexper.com](https://regexper.com)
-- - [https://godbolt.org](https://godbolt.org)
-- - [https://snyk.io/pt-BR/code-checker/javascript/](https://snyk.io/pt-BR/code-checker/javascript/)
-- - [https://swanandx.github.io/lemmeknow-frontend/](https://swanandx.github.io/lemmeknow-frontend/)
-- - [https://github.com/D4Vinci/elpscrk](https://github.com/D4Vinci/elpscrk)
-- - [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
-- - [https://github.com/gmelodie/awesome-wordlists](https://github.com/gmelodie/awesome-wordlists)
-- - [https://github.com/BRDumps/wordlists](https://github.com/BRDumps/wordlists)
-- - [https://github.com/kkrypt0nn/Wordlists](https://github.com/kkrypt0nn/Wordlists)
-- - [https://github.com/berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists)
-- - [https://github.com/xajkep/wordlists](https://github.com/xajkep/wordlists)
-- - [https://gist.github.com/jhaddix/b80ea67d85c13206125806f0828f4d10#file-content_discovery_all-txt](https://gist.github.com/jhaddix/b80ea67d85c13206125806f0828f4d10#file-content_discovery_all-txt)
-- - [https://wordlists.assetnote.io/](https://wordlists.assetnote.io/)
-- - [https://hide.me/proxy](https://hide.me/proxy)
-- - [https://spys.one/en/](https://spys.one/en/)
-- - [https://www.freeproxylists.net/](https://www.freeproxylists.net/)
-- - [https://www.croxyproxy.com/](https://www.croxyproxy.com/)
-- - [https://bellingcat.gitbook.io/toolkit](https://bellingcat.gitbook.io/toolkit)
-- - [https://webbreacher.com/2022/08/12/resources-mentioned-in-my-2022-defcon-recon-village-keynote/](https://webbreacher.com/2022/08/12/resources-mentioned-in-my-2022-defcon-recon-village-keynote/)
-- - [https://www.journaliststoolbox.org/](https://www.journaliststoolbox.org/)
-- - [https://support.hunch.ly/](https://support.hunch.ly/)
-- - [https://github.com/cipher387/cheatsheets](https://github.com/cipher387/cheatsheets)
-- - [https://github.com/danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools)
-- - [https://www.os-surveillance.io/](https://www.os-surveillance.io/)
-- - [https://bellingcat.com](https://bellingcat.com)
-- - [https://tracelabs.org/blog](https://tracelabs.org/blog)
-- - [https://inteltechniques.com/blog](https://inteltechniques.com/blog)
-- - [https://webbreacher.com](https://webbreacher.com)
-- - [https://www.tracelabs.org/initiatives/search-party](https://www.tracelabs.org/initiatives/search-party)
-- - [https://hacktoria.com](https://hacktoria.com)
-- - [https://www.inteltechniques.net/courses/open-source-intelligence](https://www.inteltechniques.net/courses/open-source-intelligence)
-- - [https://www.sans.org/cyber-security-courses/practical-open-source-intelligence/](https://www.sans.org/cyber-security-courses/practical-open-source-intelligence/)
-- - [https://www.sans.org/cyber-security-courses/advanced-open-source-intelligence-gathering-analysis/](https://www.sans.org/cyber-security-courses/advanced-open-source-intelligence-gathering-analysis/)
-- - [https://inteltechniques.com/book1.html](https://inteltechniques.com/book1.html)
-- - [https://inteltechniques.com/book7.html](https://inteltechniques.com/book7.html)
-- - [https://www.raebaker.net/deep-dive](https://www.raebaker.net/deep-dive)
-- - [https://www.bellingcat.com/book/](https://www.bellingcat.com/book/)
-- - [https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf](https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf)
-- - [https://inteltechniques.com/training-osip.html](https://inteltechniques.com/training-osip.html)
-- - [https://www.giac.org/certifications/open-source-intelligence-gosi/](https://www.giac.org/certifications/open-source-intelligence-gosi/)
-- - [https://certifications.tcm-sec.com/porp/](https://certifications.tcm-sec.com/porp/)
-- - [https://osmosisinstitute.org/osc/](https://osmosisinstitute.org/osc/)
-- - [https://www.escavador.com/](https://www.escavador.com/)
-- - [https://www.cadcobol.com.br/calcula_cpf_cnpj_caepf.htm](https://www.cadcobol.com.br/calcula_cpf_cnpj_caepf.htm)
-- - [https://buscaprime.com.br/](https://buscaprime.com.br/)
-- - [https://tudoconsulta.com/](https://tudoconsulta.com/)
-- - [https://investigaweb.com/](https://investigaweb.com/)
-- - [https://tudosobretodos.info/](https://tudosobretodos.info/)
-- - [https://intelx.io/tools](https://intelx.io/tools)
-- - [https://synapsint.com/](https://synapsint.com/)
-- - [https://webmii.com/](https://webmii.com/)
-- - [https://infotracer.com](https://infotracer.com)
-- - [https://skopenow.com](https://skopenow.com)
-- - [https://www.idcrawl.com](https://www.idcrawl.com)
-- - [http://sydex.net/](http://sydex.net/)
-- - [https://buzzglobe.com/](https://buzzglobe.com/)
-- - [https://dateas.com](https://dateas.com)
-- - [https://www.lusha.com](https://www.lusha.com)
-- - [https://truepeoplesearch.com/](https://truepeoplesearch.com/)
-- - [https://fastpeoplesearch.com/](https://fastpeoplesearch.com/)
-- - [https://nuwber.com/](https://nuwber.com/)
-- - [https://xlek.com/](https://xlek.com/)
-- - [https://familytreenow.com/](https://familytreenow.com/)
-- - [https://intelius.com/](https://intelius.com/)
-- - [https://radaris.com/](https://radaris.com/)
-- - [https://ufind.name/](https://ufind.name/)
-- - [https://spytox.com/](https://spytox.com/)
-- - [https://searchpeoplefree.com/](https://searchpeoplefree.com/)
-- - [https://johndoe.com/](https://johndoe.com/)
-- - [https://thatsthem.com/](https://thatsthem.com/)
-- - [https://spokeo.com/](https://spokeo.com/)
-- - [https://advancedbackgroundchecks.com/](https://advancedbackgroundchecks.com/)
-- - [https://yasni.com/](https://yasni.com/)
-- - [https://zabasearch.com/](https://zabasearch.com/)
-- - [https://peoplesearchnow.com/](https://peoplesearchnow.com/)
-- - [https://truthfinder.com/](https://truthfinder.com/)
-- - [https://peoplebyname.com/](https://peoplebyname.com/)
-- - [https://whitepages.com/](https://whitepages.com/)
-- - [https://findpeoplesearch.com/](https://findpeoplesearch.com/)
-- - [https://publicrecords.directory/](https://publicrecords.directory/)
-- - [https://whoodle.com/](https://whoodle.com/)
-- - [https://howmanyofme.com/](https://howmanyofme.com/)
-- - [https://classmates.com/](https://classmates.com/)
-- - [https://homemetry.com/](https://homemetry.com/)
-- - [https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/unclaimed-property-states.html](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/unclaimed-property-states.html)
-- - [https://unclaimed.org/search/](https://unclaimed.org/search/)
-- - [https://www.missingmoney.com/en/](https://www.missingmoney.com/en/)
-- - [https://ucpi.sco.ca.gov/en/Property/SearchIndex](https://ucpi.sco.ca.gov/en/Property/SearchIndex)
-- - [https://www.1websdirectory.com/](https://www.1websdirectory.com/)
-- - [https://namesandfacts.com/](https://namesandfacts.com/)
-- - [https://context.reverso.net/traducao/](https://context.reverso.net/traducao/)
-- - [https://deepl.com](https://deepl.com)
-- - [https://www.grammarly.com/](https://www.grammarly.com/)
-- - [https://localingual.com/](https://localingual.com/)
-- - [https://www.typeit.org](https://www.typeit.org)
-- - [https://emojipedia.org](https://emojipedia.org)
-- - [https://www.2lingual.com/](https://www.2lingual.com/)
-- - [http://servicos.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Solicitacao.asp](http://servicos.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Solicitacao.asp)
-- - [https://www.listadevedores.pgfn.gov.br/](https://www.listadevedores.pgfn.gov.br/)
-- - [https://servicos.receita.fazenda.gov.br/Servicos/certidaointernet/PJ/Emitir](https://servicos.receita.fazenda.gov.br/Servicos/certidaointernet/PJ/Emitir)
-- - [https://site.cenprotnacional.org.br/](https://site.cenprotnacional.org.br/)
-- - [https://www.infobel.com/pt/brazil](https://www.infobel.com/pt/brazil)
-- - [https://opencorporates.com/](https://opencorporates.com/)
-- - [https://www.aihitdata.com](https://www.aihitdata.com)
-- - [https://aleph.occrp.org/](https://aleph.occrp.org/)
-- - [https://id.occrp.org/databases/](https://id.occrp.org/databases/)
-- - [https://www.kompass.com/selectcountry/](https://www.kompass.com/selectcountry/)
-- - [https://inteltechniques.com/tools/Business.html](https://inteltechniques.com/tools/Business.html)
-- - [https://indeed.com](https://indeed.com)
-- - [https://www.brownbook.net](https://www.brownbook.net)
-- - [https://offshoreleaks.icij.org](https://offshoreleaks.icij.org)
-- - [https://littlesis.org/home/dashboard](https://littlesis.org/home/dashboard)
-- - [https://www.crunchbase.com/](https://www.crunchbase.com/)
-- - [https://www.glassdoor.com.br/index.htm](https://www.glassdoor.com.br/index.htm)
-- - [https://www.apollo.io/](https://www.apollo.io/)
-- - [https://www.kununu.com/](https://www.kununu.com/)
-- - [https://enigma.com/](https://enigma.com/)
-- - [https://www.charitynavigator.org](https://www.charitynavigator.org)
-- - [https://www.lobbyfacts.eu/](https://www.lobbyfacts.eu/)
-- - [https://www.corporationwiki.com/](https://www.corporationwiki.com/)
-- - [https://www.northdata.com](https://www.northdata.com)
-- - [https://registrocivil.org.br/](https://registrocivil.org.br/)
-- - [https://www.registrodeimoveis.org.br/](https://www.registrodeimoveis.org.br/)
-- - [https://registradores.onr.org.br](https://registradores.onr.org.br)
-- - [https://proclamas.org.br/](https://proclamas.org.br/)
-- - [https://censec.org.br](https://censec.org.br)
-- - [https://www.falecidosnobrasil.org.br/](https://www.falecidosnobrasil.org.br/)
-- - [https://queridodiario.ok.org.br/](https://queridodiario.ok.org.br/)
-- - [https://servicos.dpf.gov.br/antecedentes-criminais/certidao](https://servicos.dpf.gov.br/antecedentes-criminais/certidao)
-- - [http://idpol.ac.gov.br/services/emitiraac](http://idpol.ac.gov.br/services/emitiraac)
-- - [https://alagoasdigital.al.gov.br/servico/5ad0ca49547bb35f4dbfdf97/emissao-de-certidao-de-antecedente-criminal](https://alagoasdigital.al.gov.br/servico/5ad0ca49547bb35f4dbfdf97/emissao-de-certidao-de-antecedente-criminal)
-- - [http://www.policiacivil.am.gov.br/pagina/id/14/](http://www.policiacivil.am.gov.br/pagina/id/14/)
-- - [http://www.politec.ap.gov.br/proesc/login/registra/login.php](http://www.politec.ap.gov.br/proesc/login/registra/login.php)
-- - [http://www.ba.gov.br/antecedentes/solicitar_atestado.asp](http://www.ba.gov.br/antecedentes/solicitar_atestado.asp)
-- - [https://sistemas.sspds.ce.gov.br/AtestadoAntecedentes/](https://sistemas.sspds.ce.gov.br/AtestadoAntecedentes/)
-- - [https://certidaoweb.pcdf.df.gov.br/Views/cadastro.aspx](https://certidaoweb.pcdf.df.gov.br/Views/cadastro.aspx)
-- - [http://ssp.sesp.es.gov.br/rgantecedentes/](http://ssp.sesp.es.gov.br/rgantecedentes/)
-- - [https://iivirtual.ssp.go.gov.br/#/antecedente-criminal](https://iivirtual.ssp.go.gov.br/#/antecedente-criminal)
-- - [https://wwws.pc.mg.gov.br/atestado/solicitarsel.do?evento=x&fwPlc=s](https://wwws.pc.mg.gov.br/atestado/solicitarsel.do?evento=x&fwPlc=s)
-- - [https://antecedentes.ssp.ma.gov.br/](https://antecedentes.ssp.ma.gov.br/)
-- - [https://portal.sesp.mt.gov.br/portaldaseguranca/pages/criminal/emissaoAntecedentesCriminais.seam](https://portal.sesp.mt.gov.br/portaldaseguranca/pages/criminal/emissaoAntecedentesCriminais.seam)
-- - [https://antecedentes.policiacivil.pa.gov.br/consulta](https://antecedentes.policiacivil.pa.gov.br/consulta)
-- - [https://www.policiacivil.pb.gov.br/servicos/certidao-de-antecedentes-criminais](https://www.policiacivil.pb.gov.br/servicos/certidao-de-antecedentes-criminais)
-- - [https://www.policiacivil.pr.gov.br/Pagina/Solicitar-Atestados](https://www.policiacivil.pr.gov.br/Pagina/Solicitar-Atestados)
-- - [http://www.servicos.sds.pe.gov.br/antecedentes/public/pages/certidaoAntecedentesCriminais/certidaoAntecedentesCriminaisEmitir.jsf](http://www.servicos.sds.pe.gov.br/antecedentes/public/pages/certidaoAntecedentesCriminais/certidaoAntecedentesCriminaisEmitir.jsf)
-- - [http://www.pc.pi.gov.br/certidao.php](http://www.pc.pi.gov.br/certidao.php)
-- - [http://atestadodic.detran.rj.gov.br/](http://atestadodic.detran.rj.gov.br/)
-- - [https://www.pc.rs.gov.br/emitir-certidao-de-antecedentes-policiais](https://www.pc.rs.gov.br/emitir-certidao-de-antecedentes-policiais)
-- - [https://portaldocidadao.ro.gov.br/Servico/Detalhes?id=52935816-bebf-4305-c92c-08da1e433f77](https://portaldocidadao.ro.gov.br/Servico/Detalhes?id=52935816-bebf-4305-c92c-08da1e433f77)
-- - [http://www.idnetbrasil.rr.gov.br/AtestadoWeb/pages/MasterPages/IUPrincipal.aspx#](http://www.idnetbrasil.rr.gov.br/AtestadoWeb/pages/MasterPages/IUPrincipal.aspx#)
-- - [https://www.sc.gov.br/servicos/detalhe/expedir-atestado-de-antecedentes](https://www.sc.gov.br/servicos/detalhe/expedir-atestado-de-antecedentes)
-- - [http://www.ssp.sp.gov.br/servicos/atestado.aspx](http://www.ssp.sp.gov.br/servicos/atestado.aspx)
-- - [http://antecedentes.ssp.se.gov.br/antecedentes/index.asp?pagina=frmSolicitarAtestado](http://antecedentes.ssp.se.gov.br/antecedentes/index.asp?pagina=frmSolicitarAtestado)
-- - [https://www.ssp.to.gov.br/policia-cientifica/institutos/instituto-de-identificacao/emissao-de-atestado-de-antecedentes-/](https://www.ssp.to.gov.br/policia-cientifica/institutos/instituto-de-identificacao/emissao-de-atestado-de-antecedentes-/)
-- - [https://servicos.receita.fazenda.gov.br/Servicos/certidaointernet/PF/Emitir](https://servicos.receita.fazenda.gov.br/Servicos/certidaointernet/PF/Emitir)
-- - [https://site.cenprotnacional.org.br/](https://site.cenprotnacional.org.br/)
-- - [https://www.listadevedores.pgfn.gov.br/](https://www.listadevedores.pgfn.gov.br/)
-- - [https://www.serasa.com.br/?v=true&vp=portal&vpth=%2F&vt=Voltar&vru=%2Farea-cliente](https://www.serasa.com.br/?v=true&vp=portal&vpth=%2F&vt=Voltar&vru=%2Farea-cliente)
-- - [https://www.consumidorpositivo.com.br/](https://www.consumidorpositivo.com.br/)
-- - [https://sefaz.ac.gov.br/2021/](https://sefaz.ac.gov.br/2021/)
-- - [https://contribuinte.sefaz.al.gov.br/certidao/#/certidao-principal](https://contribuinte.sefaz.al.gov.br/certidao/#/certidao-principal)
-- - [http://www.sefaz.am.gov.br/certidoes.asp](http://www.sefaz.am.gov.br/certidoes.asp)
-- - [http://www.sefaz.ap.gov.br/sate/seg/SEGf_AcessarFuncao.jsp?cdFuncao=DIA_060](http://www.sefaz.ap.gov.br/sate/seg/SEGf_AcessarFuncao.jsp?cdFuncao=DIA_060)
-- - [https://www.sefaz.ba.gov.br/s/cartadeservicos/index.asp](https://www.sefaz.ba.gov.br/s/cartadeservicos/index.asp)
-- - [https://www.cidades.ce.gov.br/certidoes/](https://www.cidades.ce.gov.br/certidoes/)
-- - [https://ww1.receita.fazenda.df.gov.br/cidadao/certidoes/Certidao](https://ww1.receita.fazenda.df.gov.br/cidadao/certidoes/Certidao)
-- - [https://internet.sefaz.es.gov.br/agenciavirtual/area_publica/cnd/index.php](https://internet.sefaz.es.gov.br/agenciavirtual/area_publica/cnd/index.php)
-- - [https://www.sefaz.go.gov.br/Certidao/Emissao/](https://www.sefaz.go.gov.br/Certidao/Emissao/)
-- - [https://sistemas1.sefaz.ma.gov.br/portalsefaz/jsp/menu/view.jsf?codigo=16](https://sistemas1.sefaz.ma.gov.br/portalsefaz/jsp/menu/view.jsf?codigo=16)
-- - [https://www2.fazenda.mg.gov.br/sol/ctrl/SOL/CDT/SERVICO_829?ACAO=INICIAR](https://www2.fazenda.mg.gov.br/sol/ctrl/SOL/CDT/SERVICO_829?ACAO=INICIAR)
-- - [https://www.sefaz.ms.gov.br/servicos/certidao-negativa/](https://www.sefaz.ms.gov.br/servicos/certidao-negativa/)
-- - [https://www.sefaz.mt.gov.br/cnd/certidao/servlet/ServletRotd?origem=60](https://www.sefaz.mt.gov.br/cnd/certidao/servlet/ServletRotd?origem=60)
-- - [https://app.sefa.pa.gov.br/emissao-certidao/template.action](https://app.sefa.pa.gov.br/emissao-certidao/template.action)
-- - [https://www.sefaz.pb.gov.br/servirtual/certidoes/emissao-de-certidao-de-debitos-cidadao](https://www.sefaz.pb.gov.br/servirtual/certidoes/emissao-de-certidao-de-debitos-cidadao)
-- - [https://efisco.sefaz.pe.gov.br/sfi_trb_gpf/PREmitirCertidaoNegativaNarrativaDebitoFiscal](https://efisco.sefaz.pe.gov.br/sfi_trb_gpf/PREmitirCertidaoNegativaNarrativaDebitoFiscal)
-- - [https://webas.sefaz.pi.gov.br/certidaonft-web/index.xhtml](https://webas.sefaz.pi.gov.br/certidaonft-web/index.xhtml)
-- - [http://www.cdw.fazenda.pr.gov.br/cdw/emissao/certidaoAutomatica](http://www.cdw.fazenda.pr.gov.br/cdw/emissao/certidaoAutomatica)
-- - [https://www4.fazenda.rj.gov.br/certidao-fiscal-web/emitirCertidao.jsf](https://www4.fazenda.rj.gov.br/certidao-fiscal-web/emitirCertidao.jsf)
-- - [https://uvt2.set.rn.gov.br/#/services/certidao-negativa/emitir](https://uvt2.set.rn.gov.br/#/services/certidao-negativa/emitir)
-- - [https://www.sefaz.rs.gov.br/sat/CertidaoSitFiscalSolic.aspx](https://www.sefaz.rs.gov.br/sat/CertidaoSitFiscalSolic.aspx)
-- - [https://portalcontribuinte.sefin.ro.gov.br/Publico/certidaoNegativa.jsp](https://portalcontribuinte.sefin.ro.gov.br/Publico/certidaoNegativa.jsp)
-- - [https://www.sefaz.rr.gov.br/empresa/certidao-negativa-de-debitos](https://www.sefaz.rr.gov.br/empresa/certidao-negativa-de-debitos)
-- - [https://sat.sef.sc.gov.br/tax.NET/Sat.CtaCte.Web/SolicitacaoCnd.aspx](https://sat.sef.sc.gov.br/tax.NET/Sat.CtaCte.Web/SolicitacaoCnd.aspx)
-- - [https://www10.fazenda.sp.gov.br/CertidaoNegativaDeb/Pages/EmissaoCertidaoNegativa.aspx](https://www10.fazenda.sp.gov.br/CertidaoNegativaDeb/Pages/EmissaoCertidaoNegativa.aspx)
-- - [https://www.ceac.se.gov.br/emissao-de-certidao-negativa-e-de-regularidade-sefaz/](https://www.ceac.se.gov.br/emissao-de-certidao-negativa-e-de-regularidade-sefaz/)
-- - [http://apps.sefaz.to.gov.br/cnd/servlet/hecwbcnd01](http://apps.sefaz.to.gov.br/cnd/servlet/hecwbcnd01)
-- - [https://www.escavador.com/solucoes/consulta-de-processos](https://www.escavador.com/solucoes/consulta-de-processos)
-- - [http://www.portaldatransparencia.gov.br/servidores/consulta](http://www.portaldatransparencia.gov.br/servidores/consulta)
-- - [http://transparencia.ac.gov.br/#/dashboard	](http://transparencia.ac.gov.br/#/dashboard	)
-- - [http://transparencia.al.gov.br/](http://transparencia.al.gov.br/)
-- - [http://www.transparencia.ap.gov.br/](http://www.transparencia.ap.gov.br/)
-- - [http://www.transparencia.am.gov.br/](http://www.transparencia.am.gov.br/)
-- - [http://www.transparencia.ba.gov.br/](http://www.transparencia.ba.gov.br/)
-- - [https://cearatransparente.ce.gov.br/](https://cearatransparente.ce.gov.br/)
-- - [http://www.transparencia.df.gov.br/#/](http://www.transparencia.df.gov.br/#/)
-- - [https://transparencia.es.gov.br/](https://transparencia.es.gov.br/)
-- - [http://www.transparencia.go.gov.br/portaldatransparencia/](http://www.transparencia.go.gov.br/portaldatransparencia/)
-- - [http://www.transparencia.ma.gov.br/](http://www.transparencia.ma.gov.br/)
-- - [http://www.transparencia.mt.gov.br/](http://www.transparencia.mt.gov.br/)
-- - [http://www.transparencia.ms.gov.br/](http://www.transparencia.ms.gov.br/)
-- - [http://www.transparencia.mg.gov.br/](http://www.transparencia.mg.gov.br/)
-- - [https://transparencia.pb.gov.br/](https://transparencia.pb.gov.br/)
-- - [http://www.transparencia.pr.gov.br](http://www.transparencia.pr.gov.br)
-- - [http://web.transparencia.pe.gov.br/](http://web.transparencia.pe.gov.br/)
-- - [http://transparencia.pi.gov.br/](http://transparencia.pi.gov.br/)
-- - [http://www.transparencia.rj.gov.br](http://www.transparencia.rj.gov.br)
-- - [http://transparencia.rn.gov.br/](http://transparencia.rn.gov.br/)
-- - [http://www.transparencia.rs.gov.br](http://www.transparencia.rs.gov.br)
-- - [https://www.transparencia.ro.gov.br/](https://www.transparencia.ro.gov.br/)
-- - [https://www.transparencia.rr.gov.br/](https://www.transparencia.rr.gov.br/)
-- - [http://www.transparencia.sc.gov.br/](http://www.transparencia.sc.gov.br/)
-- - [http://www.transparencia.sp.gov.br/](http://www.transparencia.sp.gov.br/)
-- - [https://transparencia.se.gov.br/](https://transparencia.se.gov.br/)
-- - [https://www.transparencia2.to.gov.br/](https://www.transparencia2.to.gov.br/)
-- - [https://www.camara.leg.br/transparencia/recursos-humanos/](https://www.camara.leg.br/transparencia/recursos-humanos/)
-- - [http://www.senado.leg.br/transparencia/rh/servidores/nova_consulta.asp](http://www.senado.leg.br/transparencia/rh/servidores/nova_consulta.asp)
-- - [http://app.al.ac.leg.br/](http://app.al.ac.leg.br/)
-- - [https://www.al.al.leg.br/transparencia](https://www.al.al.leg.br/transparencia)
-- - [http://www.al.ap.gov.br/transparencia/](http://www.al.ap.gov.br/transparencia/)
-- - [http://www.ale.am.gov.br/transparencia/](http://www.ale.am.gov.br/transparencia/)
-- - [https://www.al.ba.gov.br/transparencia](https://www.al.ba.gov.br/transparencia)
-- - [https://www.al.ce.gov.br/index.php/transparencia/portal-da-transparencia](https://www.al.ce.gov.br/index.php/transparencia/portal-da-transparencia)
-- - [https://www.cl.df.gov.br/transparencia](https://www.cl.df.gov.br/transparencia)
-- - [https://www.al.es.gov.br/Transparencia](https://www.al.es.gov.br/Transparencia)
-- - [https://transparencia.al.go.leg.br/](https://transparencia.al.go.leg.br/)
-- - [https://www.al.ma.leg.br/transparencia/gd_consulta.php](https://www.al.ma.leg.br/transparencia/gd_consulta.php)
-- - [https://www.al.mt.gov.br/transparencia/](https://www.al.mt.gov.br/transparencia/)
-- - [https://www.transparencia.al.ms.gov.br/pages/index.php/home](https://www.transparencia.al.ms.gov.br/pages/index.php/home)
-- - [https://www.almg.gov.br/sobre/transparencia/index.html](https://www.almg.gov.br/sobre/transparencia/index.html)
-- - [http://transparencia.alepa.pa.gov.br/](http://transparencia.alepa.pa.gov.br/)
-- - [http://www.al.pb.leg.br/transparencia](http://www.al.pb.leg.br/transparencia)
-- - [http://transparencia.assembleia.pr.leg.br/](http://transparencia.assembleia.pr.leg.br/)
-- - [https://www.alepe.pe.gov.br/servidores-remuneracao/](https://www.alepe.pe.gov.br/servidores-remuneracao/)
-- - [https://transparencia.alerj.rj.gov.br/](https://transparencia.alerj.rj.gov.br/)
-- - [http://transparencia.al.rn.leg.br/transparencia/](http://transparencia.al.rn.leg.br/transparencia/)
-- - [http://www2.al.rs.gov.br/transparenciaalrs/](http://www2.al.rs.gov.br/transparenciaalrs/)
-- - [https://www.al.ro.leg.br/transparencia](https://www.al.ro.leg.br/transparencia)
-- - [https://transparencia.al.rr.leg.br/](https://transparencia.al.rr.leg.br/)
-- - [https://transparencia.alesc.sc.gov.br/](https://transparencia.alesc.sc.gov.br/)
-- - [https://www.al.sp.gov.br/transparencia/](https://www.al.sp.gov.br/transparencia/)
-- - [https://al.se.leg.br/transparencia/](https://al.se.leg.br/transparencia/)
-- - [https://www.al.to.leg.br/transparencia](https://www.al.to.leg.br/transparencia)
-- - [https://openwifi.su](https://openwifi.su)
-- - [https://www.mylnikov.org](https://www.mylnikov.org)
-- - [https://www.infrapedia.com](https://www.infrapedia.com)
-- - [http://rx.linkfanel.net](http://rx.linkfanel.net)
-- - [http://radio.garden/visit/upata/CU3xZCrQ](http://radio.garden/visit/upata/CU3xZCrQ)
-- - [https://inteltechniques.com/tools/Radio.html](https://inteltechniques.com/tools/Radio.html)
-- - [https://www.llama.com/](https://www.llama.com/)
-- - [https://www.perplexity.ai/](https://www.perplexity.ai/)
-- - [https://chatgpt.com/](https://chatgpt.com/)
-- - [https://chat.deepseek.com/](https://chat.deepseek.com/)
-- - [https://llava-vl.github.io/](https://llava-vl.github.io/)
-- - [https://www.scribbr.com/ai-detector/](https://www.scribbr.com/ai-detector/)
-- - [https://contentatscale.ai/ai-content-detector/](https://contentatscale.ai/ai-content-detector/)
-- - [https://copyleaks.com/ai-content-detector](https://copyleaks.com/ai-content-detector)
-- - [https://www.zerogpt.com/](https://www.zerogpt.com/)
-- - [https://detecting-ai.com/](https://detecting-ai.com/)
-- - [https://gptzero.me/](https://gptzero.me/)
-- - [https://copyleaks.com/	](https://copyleaks.com/	)
-- - [https://undetectable.ai/](https://undetectable.ai/)
-- - [https://julius.ai/](https://julius.ai/)
-- - [https://consensus.app/](https://consensus.app/)
-- - [https://jenni.ai/](https://jenni.ai/)
-- - [https://beta.jasper.ai/](https://beta.jasper.ai/)
-- - [https://www.sudowrite.com/](https://www.sudowrite.com/)
-- - [https://elicit.com/](https://elicit.com/)
-- - [https://riverside.fm/transcription](https://riverside.fm/transcription)
-- - [https://www.veed.io/](https://www.veed.io/)
-- - [https://midjourney.com/](https://midjourney.com/)
-- - [https://github.com/fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents)
-- - [https://topai.tools/](https://topai.tools/)
-- - [https://theresanaiforthat.com/](https://theresanaiforthat.com/)
-- - [https://www.edisontd.nl/country-browser/](https://www.edisontd.nl/country-browser/)
-- - [https://www.wikiwand.com/en/Passport_stamp#/](https://www.wikiwand.com/en/Passport_stamp#/)
-- - [https://www.passportindex.org/byColor.php](https://www.passportindex.org/byColor.php)
-- - [https://addons.mozilla.org/pt-BR/firefox/addon/privacy-badger17/](https://addons.mozilla.org/pt-BR/firefox/addon/privacy-badger17/)
-- - [https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-- - [https://addons.mozilla.org/en-US/firefox/addon/noscript/](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
-- - [https://addons.mozilla.org/en-US/firefox/addon/location-guard/](https://addons.mozilla.org/en-US/firefox/addon/location-guard/)
-- - [https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/)
-- - [https://addons.mozilla.org/pt-BR/firefox/addon/zwcs-zero-width-steganography/](https://addons.mozilla.org/pt-BR/firefox/addon/zwcs-zero-width-steganography/)
-- - [https://addons.mozilla.org/pt-BR/firefox/addon/fireshot/](https://addons.mozilla.org/pt-BR/firefox/addon/fireshot/)
-- - [https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
-- - [https://addons.mozilla.org/pt-BR/firefox/addon/onetab/](https://addons.mozilla.org/pt-BR/firefox/addon/onetab/)
+- [Bit](https://bit.ly/37BvmGF](https://bit.ly/37BvmGF) — Ferramenta ou serviço fornecido pelo domínio bit.ly.
+- [Search](https://search.yahoo.com/](https://search.yahoo.com/) — Ferramenta ou serviço fornecido pelo domínio search.yahoo.com.
+- [Search](https://search.yahoo.com/web/advanced](https://search.yahoo.com/web/advanced) — Ferramenta ou serviço fornecido pelo domínio search.yahoo.com.
+- [Baidu](http://www.baidu.com/](http://www.baidu.com/) — Ferramenta ou serviço fornecido pelo domínio www.baidu.com.
+- [Swisscows](https://swisscows.com/](https://swisscows.com/) — Ferramenta ou serviço fornecido pelo domínio swisscows.com.
+- [Mojeek](https://www.mojeek.com/](https://www.mojeek.com/) — Ferramenta ou serviço fornecido pelo domínio www.mojeek.com.
+- [Startpage](https://startpage.com](https://startpage.com) — Ferramenta ou serviço fornecido pelo domínio startpage.com.
+- [Gibiru](https://gibiru.com/](https://gibiru.com/) — Ferramenta ou serviço fornecido pelo domínio gibiru.com.
+- [Search](https://search.disconnect.me/](https://search.disconnect.me/) — Ferramenta ou serviço fornecido pelo domínio search.disconnect.me.
+- [Etools](https://www.etools.ch/](https://www.etools.ch/) — Ferramenta ou serviço fornecido pelo domínio www.etools.ch.
+- [Search](https://search.carrot2.org/#/search/web](https://search.carrot2.org/#/search/web) — Ferramenta ou serviço fornecido pelo domínio search.carrot2.org.
+- [Isearchfrom](https://isearchfrom.com](https://isearchfrom.com) — Ferramenta ou serviço fornecido pelo domínio isearchfrom.com.
+- [Searchenginecolossus](https://www.searchenginecolossus.com](https://www.searchenginecolossus.com) — Ferramenta ou serviço fornecido pelo domínio www.searchenginecolossus.com.
+- [2lingual](https://2lingual.com/](https://2lingual.com/) — Ferramenta ou serviço fornecido pelo domínio 2lingual.com.
+- [Searchenginesindex](https://www.searchenginesindex.com/](https://www.searchenginesindex.com/) — Ferramenta ou serviço fornecido pelo domínio www.searchenginesindex.com.
+- [Start](https://start.me/p/b56G5Q/search-engines](https://start.me/p/b56G5Q/search-engines) — Ferramenta ou serviço fornecido pelo domínio start.me.
+- [Advangle](http://advangle.com/](http://advangle.com/) — Ferramenta ou serviço fornecido pelo domínio advangle.com.
+- [Berify](https://berify.com/](https://berify.com/) — Ferramenta ou serviço fornecido pelo domínio berify.com.
+- [Historypin](https://www.historypin.org/en/](https://www.historypin.org/en/) — Ferramenta ou serviço fornecido pelo domínio www.historypin.org.
+- [Rootabout](https://rootabout.com/](https://rootabout.com/) — Ferramenta ou serviço fornecido pelo domínio rootabout.com.
+- [Lenso](https://lenso.ai/pt](https://lenso.ai/pt) — Ferramenta ou serviço fornecido pelo domínio lenso.ai.
+- [Newocr](https://www.newocr.com/](https://www.newocr.com/) — Ferramenta ou serviço fornecido pelo domínio www.newocr.com.
+- [I2ocr](https://www.i2ocr.com/](https://www.i2ocr.com/) — Ferramenta ou serviço fornecido pelo domínio www.i2ocr.com.
+- [Pimeyes](https://pimeyes.com](https://pimeyes.com) — Ferramenta ou serviço fornecido pelo domínio pimeyes.com.
+- [Aws](https://aws.amazon.com/pt/rekognition](https://aws.amazon.com/pt/rekognition) — Ferramenta ou serviço fornecido pelo domínio aws.amazon.com.
+- [Photopea](https://www.photopea.com/](https://www.photopea.com/) — Ferramenta ou serviço fornecido pelo domínio www.photopea.com.
+- [Imgops](https://imgops.com/](https://imgops.com/) — Ferramenta ou serviço fornecido pelo domínio imgops.com.
+- [Myheritage](https://www.myheritage.com.br/photo-enhancer](https://www.myheritage.com.br/photo-enhancer) — Ferramenta ou serviço fornecido pelo domínio www.myheritage.com.br.
+- [Segment-anything](https://segment-anything.com/](https://segment-anything.com/) — Ferramenta ou serviço fornecido pelo domínio segment-anything.com.
+- [Watermarkremover](https://www.watermarkremover.io/pt](https://www.watermarkremover.io/pt) — Ferramenta ou serviço fornecido pelo domínio www.watermarkremover.io.
+- [Myfonts](https://www.myfonts.com/pages/whatthefont](https://www.myfonts.com/pages/whatthefont) — Ferramenta ou serviço fornecido pelo domínio www.myfonts.com.
+- [Imgops](https://imgops.com/](https://imgops.com/) — Ferramenta ou serviço fornecido pelo domínio imgops.com.
+- [Whatfontis](https://www.whatfontis.com/](https://www.whatfontis.com/) — Ferramenta ou serviço fornecido pelo domínio www.whatfontis.com.
+- [Github](https://github.com/GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Github](https://github.com/spipm/Depix](https://github.com/spipm/Depix) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Aperisolve](https://www.aperisolve.com](https://www.aperisolve.com) — Ferramenta ou serviço fornecido pelo domínio www.aperisolve.com.
+- [Aperisolve](https://www.aperisolve.com/cheatsheet](https://www.aperisolve.com/cheatsheet) — Ferramenta ou serviço fornecido pelo domínio www.aperisolve.com.
+- [Camerasummary](https://camerasummary.com/](https://camerasummary.com/) — Ferramenta ou serviço fornecido pelo domínio camerasummary.com.
+- [Stolencamerafinder](https://www.stolencamerafinder.com/](https://www.stolencamerafinder.com/) — Ferramenta ou serviço fornecido pelo domínio www.stolencamerafinder.com.
+- [Cameratrace](http://www.cameratrace.com/trace](http://www.cameratrace.com/trace) — Ferramenta ou serviço fornecido pelo domínio www.cameratrace.com.
+- [Timestamp](https://timestamp.online](https://timestamp.online) — Ferramenta ou serviço fornecido pelo domínio timestamp.online.
+- [Timestamp-converter](https://www.timestamp-converter.com](https://www.timestamp-converter.com) — Ferramenta ou serviço fornecido pelo domínio www.timestamp-converter.com.
+- [Fotoforensics](http://fotoforensics.com](http://fotoforensics.com) — Ferramenta ou serviço fornecido pelo domínio fotoforensics.com.
+- [Useragentstring](http://useragentstring.com/pages/useragentstring.php](http://useragentstring.com/pages/useragentstring.php) — Ferramenta ou serviço fornecido pelo domínio useragentstring.com.
+- [29a](https://29a.ch/photo-forensics/#forensic-magnifier](https://29a.ch/photo-forensics/#forensic-magnifier) — Ferramenta ou serviço fornecido pelo domínio 29a.ch.
+- [Getpmd](https://getpmd.iptc.org/getiptcpmd.html](https://getpmd.iptc.org/getiptcpmd.html) — Ferramenta ou serviço fornecido pelo domínio getpmd.iptc.org.
+- [Getghiro](https://www.getghiro.org](https://www.getghiro.org) — Ferramenta ou serviço fornecido pelo domínio www.getghiro.org.
+- [Docs](https://docs.polyswarm.io/](https://docs.polyswarm.io/) — Ferramenta ou serviço fornecido pelo domínio docs.polyswarm.io.
+- [App](https://app.illuminarty.ai/](https://app.illuminarty.ai/) — Ferramenta ou serviço fornecido pelo domínio app.illuminarty.ai.
+- [Scenex](https://scenex.jina.ai/](https://scenex.jina.ai/) — Ferramenta ou serviço fornecido pelo domínio scenex.jina.ai.
+- [Aiornot](https://www.aiornot.com/](https://www.aiornot.com/) — Ferramenta ou serviço fornecido pelo domínio www.aiornot.com.
+- [Outlinetts](https://outlinetts.com/](https://outlinetts.com/) — Ferramenta ou serviço fornecido pelo domínio outlinetts.com.
+- [12ft](https://12ft.io](https://12ft.io) — Ferramenta ou serviço fornecido pelo domínio 12ft.io.
+- [Leiaisso](https://leiaisso.net](https://leiaisso.net) — Ferramenta ou serviço fornecido pelo domínio leiaisso.net.
+- [1ft](https://1ft.io/](https://1ft.io/) — Ferramenta ou serviço fornecido pelo domínio 1ft.io.
+- [Smry](https://www.smry.ai/](https://www.smry.ai/) — Ferramenta ou serviço fornecido pelo domínio www.smry.ai.
+- [Printfriendly](https://www.printfriendly.com/](https://www.printfriendly.com/) — Ferramenta ou serviço fornecido pelo domínio www.printfriendly.com.
+- [Archive](https://archive.org/](https://archive.org/) — Plataforma que arquiva páginas da web para consulta histórica.
+- [Cachedpages](http://www.cachedpages.com](http://www.cachedpages.com) — Ferramenta ou serviço fornecido pelo domínio www.cachedpages.com.
+- [Cachedview](https://cachedview.com](https://cachedview.com) — Ferramenta ou serviço fornecido pelo domínio cachedview.com.
+- [Timetravel](http://timetravel.mementoweb.org](http://timetravel.mementoweb.org) — Ferramenta ou serviço fornecido pelo domínio timetravel.mementoweb.org.
+- [Archive](https://archive.ph](https://archive.ph) — Plataforma que arquiva páginas da web para consulta histórica.
+- [Archive](http://archive.is/](http://archive.is/) — Plataforma que arquiva páginas da web para consulta histórica.
+- [Oldweb](https://oldweb.today/](https://oldweb.today/) — Ferramenta ou serviço fornecido pelo domínio oldweb.today.
+- [Carbondate](https://carbondate.cs.odu.edu/](https://carbondate.cs.odu.edu/) — Ferramenta ou serviço fornecido pelo domínio carbondate.cs.odu.edu.
+- [Theoldnet](https://theoldnet.com/](https://theoldnet.com/) — Ferramenta ou serviço fornecido pelo domínio theoldnet.com.
+- [Copyscape](https://www.copyscape.com/](https://www.copyscape.com/) — Ferramenta ou serviço fornecido pelo domínio www.copyscape.com.
+- [Archivebox](https://archivebox.io/](https://archivebox.io/) — Plataforma que arquiva páginas da web para consulta histórica.
+- [Cipher387](https://cipher387.github.io/quickcacheandarchivesearch/](https://cipher387.github.io/quickcacheandarchivesearch/) — Plataforma que arquiva páginas da web para consulta histórica.
+- [Consultanumero](https://consultanumero.abrtelecom.com.br/](https://consultanumero.abrtelecom.com.br/) — Ferramenta ou serviço fornecido pelo domínio consultanumero.abrtelecom.com.br.
+- [Truecaller](https://www.truecaller.com](https://www.truecaller.com) — Aplicativo de identificação de chamadas e consulta de números de telefone.
+- [Sync](https://sync.me/pt/](https://sync.me/pt/) — Ferramenta ou serviço fornecido pelo domínio sync.me.
+- [Whoseno](https://www.whoseno.com/](https://www.whoseno.com/) — Ferramenta ou serviço fornecido pelo domínio www.whoseno.com.
+- [Consultaoperadora](https://consultaoperadora.com.br](https://consultaoperadora.com.br) — Ferramenta ou serviço fornecido pelo domínio consultaoperadora.com.br.
+- [Cadastropre](https://cadastropre.com.br/#/consulta](https://cadastropre.com.br/#/consulta) — Ferramenta ou serviço fornecido pelo domínio cadastropre.com.br.
+- [Coberturacelular](http://www.coberturacelular.com.br/](http://www.coberturacelular.com.br/) — Ferramenta ou serviço fornecido pelo domínio www.coberturacelular.com.br.
+- [Teleco](https://www.teleco.com.br/cobertura.asp](https://www.teleco.com.br/cobertura.asp) — Ferramenta ou serviço fornecido pelo domínio www.teleco.com.br.
+- [Vivo](https://www.vivo.com.br/para-voce/por-que-vivo/qualidade/cobertura](https://www.vivo.com.br/para-voce/por-que-vivo/qualidade/cobertura) — Ferramenta ou serviço fornecido pelo domínio www.vivo.com.br.
+- [Oi](https://www.oi.com.br/oi/oi-pra-voce/planos-servicos/cobertura](https://www.oi.com.br/oi/oi-pra-voce/planos-servicos/cobertura) — Ferramenta ou serviço fornecido pelo domínio www.oi.com.br.
+- [Opencellid](https://opencellid.org/](https://opencellid.org/) — Ferramenta ou serviço fornecido pelo domínio opencellid.org.
+- [Defastra](https://defastra.com/](https://defastra.com/) — Ferramenta ou serviço fornecido pelo domínio defastra.com.
+- [Globfone](https://globfone.com/send-text/](https://globfone.com/send-text/) — Ferramenta ou serviço fornecido pelo domínio globfone.com.
+- [2ndline](https://www.2ndline.co/](https://www.2ndline.co/) — Ferramenta ou serviço fornecido pelo domínio www.2ndline.co.
+- [Smsreceivefree](https://smsreceivefree.com/](https://smsreceivefree.com/) — Ferramenta ou serviço fornecido pelo domínio smsreceivefree.com.
+- [Sms24](https://sms24.me/](https://sms24.me/) — Ferramenta ou serviço fornecido pelo domínio sms24.me.
+- [Receive-smss](https://receive-smss.com/](https://receive-smss.com/) — Ferramenta ou serviço fornecido pelo domínio receive-smss.com.
+- [Temp-sms](https://temp-sms.org/](https://temp-sms.org/) — Ferramenta ou serviço fornecido pelo domínio temp-sms.org.
+- [Onlinesim](https://onlinesim.net](https://onlinesim.net) — Ferramenta ou serviço fornecido pelo domínio onlinesim.net.
+- [Smsget](http://smsget.net](http://smsget.net) — Ferramenta ou serviço fornecido pelo domínio smsget.net.
+- [Sms-online](https://sms-online.co](https://sms-online.co) — Ferramenta ou serviço fornecido pelo domínio sms-online.co.
+- [Catchsms](https://catchsms.com](https://catchsms.com) — Ferramenta ou serviço fornecido pelo domínio catchsms.com.
+- [Sms-receive](http://sms-receive.net](http://sms-receive.net) — Ferramenta ou serviço fornecido pelo domínio sms-receive.net.
+- [Sms](http://sms.sellaite.com](http://sms.sellaite.com) — Ferramenta ou serviço fornecido pelo domínio sms.sellaite.com.
+- [Receivefreesms](http://receivefreesms.net](http://receivefreesms.net) — Ferramenta ou serviço fornecido pelo domínio receivefreesms.net.
+- [Receive-a-sms](https://receive-a-sms.com](https://receive-a-sms.com) — Ferramenta ou serviço fornecido pelo domínio receive-a-sms.com.
+- [Receivesmsonline](http://receivesmsonline.in](http://receivesmsonline.in) — Ferramenta ou serviço fornecido pelo domínio receivesmsonline.in.
+- [Receivefreesms](http://receivefreesms.com](http://receivefreesms.com) — Ferramenta ou serviço fornecido pelo domínio receivefreesms.com.
+- [Receivesmsonline](http://receivesmsonline.me](http://receivesmsonline.me) — Ferramenta ou serviço fornecido pelo domínio receivesmsonline.me.
+- [Smsreceivefree](https://smsreceivefree.com](https://smsreceivefree.com) — Ferramenta ou serviço fornecido pelo domínio smsreceivefree.com.
+- [Receivesmsonline](https://www.receivesmsonline.net](https://www.receivesmsonline.net) — Ferramenta ou serviço fornecido pelo domínio www.receivesmsonline.net.
+- [Textbelt](https://textbelt.com](https://textbelt.com) — Ferramenta ou serviço fornecido pelo domínio textbelt.com.
+- [Who](https://who.is/](https://who.is/) — Ferramenta ou serviço fornecido pelo domínio who.is.
+- [Whoxy](https://www.whoxy.com/](https://www.whoxy.com/) — Ferramenta ou serviço fornecido pelo domínio www.whoxy.com.
+- [Spyonweb](https://spyonweb.com/](https://spyonweb.com/) — Ferramenta ou serviço fornecido pelo domínio spyonweb.com.
+- [Pulsedive](https://pulsedive.com](https://pulsedive.com) — Plataforma de threat intelligence, utilizada para análise de domínios, IPs e URLs suspeitas.
+- [Sitereport](https://sitereport.netcraft.com](https://sitereport.netcraft.com) — Ferramenta ou serviço fornecido pelo domínio sitereport.netcraft.com.
+- [Urlscan](https://urlscan.io/](https://urlscan.io/) — Scanner de URLs que analisa a segurança e o comportamento de um site.
+- [Builtwith](https://builtwith.com/](https://builtwith.com/) — Ferramenta ou serviço fornecido pelo domínio builtwith.com.
+- [Securitytrails](https://securitytrails.com](https://securitytrails.com) — Plataforma que oferece informações históricas e atuais sobre DNS, domínios, IPs e infraestrutura da web.
+- [Analyzeid](https://analyzeid.com/](https://analyzeid.com/) — Ferramenta ou serviço fornecido pelo domínio analyzeid.com.
+- [Leakix](https://leakix.net](https://leakix.net) — Ferramenta ou serviço fornecido pelo domínio leakix.net.
+- [Themarkup](https://themarkup.org/blacklight](https://themarkup.org/blacklight) — Ferramenta ou serviço fornecido pelo domínio themarkup.org.
+- [Dfir](https://dfir.blog/unfurl/](https://dfir.blog/unfurl/) — Ferramenta ou serviço fornecido pelo domínio dfir.blog.
+- [Webmeup](https://webmeup.com](https://webmeup.com) — Ferramenta ou serviço fornecido pelo domínio webmeup.com.
+- [Moz](https://moz.com/link-explorer](https://moz.com/link-explorer) — Ferramenta ou serviço fornecido pelo domínio moz.com.
+- [Ahrefs](https://ahrefs.com/backlink-checker](https://ahrefs.com/backlink-checker) — Ferramenta ou serviço fornecido pelo domínio ahrefs.com.
+- [Neilpatel](https://neilpatel.com/br/backlinks/](https://neilpatel.com/br/backlinks/) — Ferramenta ou serviço fornecido pelo domínio neilpatel.com.
+- [Smallseotools](https://smallseotools.com/backlink-checker/](https://smallseotools.com/backlink-checker/) — Ferramenta ou serviço fornecido pelo domínio smallseotools.com.
+- [Websiteseochecker](https://websiteseochecker.com/backlink-checker/](https://websiteseochecker.com/backlink-checker/) — Ferramenta ou serviço fornecido pelo domínio websiteseochecker.com.
+- [Monitorbacklinks](https://monitorbacklinks.com/seo-tools/backlink-checker](https://monitorbacklinks.com/seo-tools/backlink-checker) — Ferramenta ou serviço fornecido pelo domínio monitorbacklinks.com.
+- [Thehoth](https://www.thehoth.com/backlinks-checker/](https://www.thehoth.com/backlinks-checker/) — Ferramenta ou serviço fornecido pelo domínio www.thehoth.com.
+- [Backlinkwatch](https://www.backlinkwatch.com/index.php](https://www.backlinkwatch.com/index.php) — Ferramenta ou serviço fornecido pelo domínio www.backlinkwatch.com.
+- [Website](https://website.informer.com/](https://website.informer.com/) — Ferramenta ou serviço fornecido pelo domínio website.informer.com.
+- [Urlscan](https://urlscan.io/](https://urlscan.io/) — Scanner de URLs que analisa a segurança e o comportamento de um site.
+- [Easycounter](https://www.easycounter.com/](https://www.easycounter.com/) — Ferramenta ou serviço fornecido pelo domínio www.easycounter.com.
+- [Nslookup](https://www.nslookup.io/](https://www.nslookup.io/) — Ferramenta ou serviço fornecido pelo domínio www.nslookup.io.
+- [Checkforcloudflare](https://checkforcloudflare.selesti.com](https://checkforcloudflare.selesti.com) — Ferramenta ou serviço fornecido pelo domínio checkforcloudflare.selesti.com.
+- [Ip](https://ip.teoh.io/vpn-detection](https://ip.teoh.io/vpn-detection) — Ferramenta ou serviço fornecido pelo domínio ip.teoh.io.
+- [Host](https://host.io](https://host.io) — Ferramenta ou serviço fornecido pelo domínio host.io.
+- [Hostingchecker](https://hostingchecker.com](https://hostingchecker.com) — Ferramenta ou serviço fornecido pelo domínio hostingchecker.com.
+- [Iknowwhatyoudownload](https://iknowwhatyoudownload.com/](https://iknowwhatyoudownload.com/) — Ferramenta ou serviço fornecido pelo domínio iknowwhatyoudownload.com.
+- [Activecampaign](https://www.activecampaign.com/dkim-spf-check/](https://www.activecampaign.com/dkim-spf-check/) — Ferramenta ou serviço fornecido pelo domínio www.activecampaign.com.
+- [Mxtoolbox](https://mxtoolbox.com/SuperTool.aspx#](https://mxtoolbox.com/SuperTool.aspx#) — Ferramenta ou serviço fornecido pelo domínio mxtoolbox.com.
+- [Diggui](https://www.diggui.com/](https://www.diggui.com/) — Ferramenta ou serviço fornecido pelo domínio www.diggui.com.
+- [Ahrefs](https://ahrefs.com/website-authority-checker](https://ahrefs.com/website-authority-checker) — Ferramenta ou serviço fornecido pelo domínio ahrefs.com.
+- [Dachecker](http://www.dachecker.org/](http://www.dachecker.org/) — Ferramenta ou serviço fornecido pelo domínio www.dachecker.org.
+- [Check](https://check.spamhaus.org](https://check.spamhaus.org) — Ferramenta ou serviço fornecido pelo domínio check.spamhaus.org.
+- [Sitelookup](https://sitelookup.mcafee.com](https://sitelookup.mcafee.com) — Ferramenta ou serviço fornecido pelo domínio sitelookup.mcafee.com.
+- [Urlfiltering](https://urlfiltering.paloaltonetworks.com/query/](https://urlfiltering.paloaltonetworks.com/query/) — Ferramenta ou serviço fornecido pelo domínio urlfiltering.paloaltonetworks.com.
+- [Fortiguard](https://www.fortiguard.com/iprep](https://www.fortiguard.com/iprep) — Ferramenta ou serviço fornecido pelo domínio www.fortiguard.com.
+- [Global](https://global.sitesafety.trendmicro.com](https://global.sitesafety.trendmicro.com) — Ferramenta ou serviço fornecido pelo domínio global.sitesafety.trendmicro.com.
+- [Brightcloud](https://www.brightcloud.com/tools/url-ip-lookup.php](https://www.brightcloud.com/tools/url-ip-lookup.php) — Ferramenta ou serviço fornecido pelo domínio www.brightcloud.com.
+- [Mxtoolbox](https://mxtoolbox.com/blacklists.aspx](https://mxtoolbox.com/blacklists.aspx) — Ferramenta ou serviço fornecido pelo domínio mxtoolbox.com.
+- [Multirbl](https://multirbl.valli.org](https://multirbl.valli.org) — Ferramenta ou serviço fornecido pelo domínio multirbl.valli.org.
+- [Urlcat](https://urlcat.checkpoint.com/urlcat/](https://urlcat.checkpoint.com/urlcat/) — Ferramenta ou serviço fornecido pelo domínio urlcat.checkpoint.com.
+- [Sitereview](http://sitereview.bluecoat.com/#/](http://sitereview.bluecoat.com/#/) — Ferramenta ou serviço fornecido pelo domínio sitereview.bluecoat.com.
+- [Archive](https://archive.lightspeedsystems.com](https://archive.lightspeedsystems.com) — Plataforma que arquiva páginas da web para consulta histórica.
+- [Portscanner](https://portscanner.online/](https://portscanner.online/) — Ferramenta ou serviço fornecido pelo domínio portscanner.online.
+- [Urlhaus-api](https://urlhaus-api.abuse.ch/](https://urlhaus-api.abuse.ch/) — Ferramenta ou serviço fornecido pelo domínio urlhaus-api.abuse.ch.
+- [Ipinfodb](https://ipinfodb.com](https://ipinfodb.com) — Ferramenta ou serviço fornecido pelo domínio ipinfodb.com.
+- [Ipfingerprints](https://www.ipfingerprints.com](https://www.ipfingerprints.com) — Ferramenta ou serviço fornecido pelo domínio www.ipfingerprints.com.
+- [Yougetsignal](https://www.yougetsignal.com/tools/web-sites-on-web-server/](https://www.yougetsignal.com/tools/web-sites-on-web-server/) — Ferramenta ou serviço fornecido pelo domínio www.yougetsignal.com.
+- [Whatismyip](https://www.whatismyip.com/ip-address-lookup/](https://www.whatismyip.com/ip-address-lookup/) — Ferramenta ou serviço fornecido pelo domínio www.whatismyip.com.
+- [Ipaddressguide](https://www.ipaddressguide.com/cidr](https://www.ipaddressguide.com/cidr) — Ferramenta ou serviço fornecido pelo domínio www.ipaddressguide.com.
+- [Inteltechniques](https://inteltechniques.com/tools/IP.html](https://inteltechniques.com/tools/IP.html) — Ferramenta ou serviço fornecido pelo domínio inteltechniques.com.
+- [Prowl](https://prowl.lupovis.io/](https://prowl.lupovis.io/) — Ferramenta ou serviço fornecido pelo domínio prowl.lupovis.io.
+- [Hackertarget](https://hackertarget.com/ip-tools/](https://hackertarget.com/ip-tools/) — Ferramenta ou serviço fornecido pelo domínio hackertarget.com.
+- [Crt](https://crt.sh/](https://crt.sh/) — Ferramenta para pesquisa de certificados SSL públicos e monitoramento de emissão.
+- [Entrust](https://www.entrust.com/digital-security/certificate-solutions](https://www.entrust.com/digital-security/certificate-solutions) — Ferramenta ou serviço fornecido pelo domínio www.entrust.com.
+- [App](https://app.netlas.io/certs/](https://app.netlas.io/certs/) — Ferramenta ou serviço fornecido pelo domínio app.netlas.io.
+- [Browserleaks](https://browserleaks.com/](https://browserleaks.com/) — Ferramenta ou serviço fornecido pelo domínio browserleaks.com.
+- [Deviceinfo](https://www.deviceinfo.me/](https://www.deviceinfo.me/) — Ferramenta ou serviço fornecido pelo domínio www.deviceinfo.me.
+- [Coveryourtracks](https://coveryourtracks.eff.org](https://coveryourtracks.eff.org) — Ferramenta ou serviço fornecido pelo domínio coveryourtracks.eff.org.
+- [Amiunique](https://amiunique.org](https://amiunique.org) — Ferramenta ou serviço fornecido pelo domínio amiunique.org.
+- [Inteltechniques](https://inteltechniques.com/logger/](https://inteltechniques.com/logger/) — Ferramenta ou serviço fornecido pelo domínio inteltechniques.com.
+- [Privacytests](https://privacytests.org/](https://privacytests.org/) — Ferramenta ou serviço fornecido pelo domínio privacytests.org.
+- [Canarytokens](https://canarytokens.org/nest/](https://canarytokens.org/nest/) — Serviço de geração de tokens de armadilha para alertar sobre acessos não autorizados.
+- [Grabify](https://grabify.link/](https://grabify.link/) — Ferramenta de encurtamento de URL com rastreamento de IP e localização do usuário.
+- [Iplogger](https://iplogger.org/](https://iplogger.org/) — Ferramenta ou serviço fornecido pelo domínio iplogger.org.
+- [Inteltechniques](https://inteltechniques.com/logger/](https://inteltechniques.com/logger/) — Ferramenta ou serviço fornecido pelo domínio inteltechniques.com.
+- [Linkexpander](https://linkexpander.com](https://linkexpander.com) — Ferramenta ou serviço fornecido pelo domínio linkexpander.com.
+- [Checkshorturl](http://checkshorturl.com](http://checkshorturl.com) — Ferramenta ou serviço fornecido pelo domínio checkshorturl.com.
+- [Getlinkinfo](https://getlinkinfo.com](https://getlinkinfo.com) — Ferramenta ou serviço fornecido pelo domínio getlinkinfo.com.
+- [Wheregoes](https://wheregoes.com/](https://wheregoes.com/) — Ferramenta ou serviço fornecido pelo domínio wheregoes.com.
+- [Redirectdetective](https://redirectdetective.com](https://redirectdetective.com) — Ferramenta ou serviço fornecido pelo domínio redirectdetective.com.
+- [Shorteners](https://shorteners.grayhatwarfare.com/](https://shorteners.grayhatwarfare.com/) — Ferramenta ou serviço fornecido pelo domínio shorteners.grayhatwarfare.com.
+- [Github](https://github.com/public-apis/public-apis/blob/master/README.md](https://github.com/public-apis/public-apis/blob/master/README.md) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Any-api](http://any-api.com](http://any-api.com) — Ferramenta ou serviço fornecido pelo domínio any-api.com.
+- [Apilist](https://apilist.fun](https://apilist.fun) — Ferramenta ou serviço fornecido pelo domínio apilist.fun.
+- [Apis](https://apis.guru/openapi-directory](https://apis.guru/openapi-directory) — Ferramenta ou serviço fornecido pelo domínio apis.guru.
+- [Apis](http://apis.io](http://apis.io) — Ferramenta ou serviço fornecido pelo domínio apis.io.
+- [Programmableweb](https://www.programmableweb.com](https://www.programmableweb.com) — Ferramenta ou serviço fornecido pelo domínio www.programmableweb.com.
+- [Public-apis](https://public-apis.io](https://public-apis.io) — Ferramenta ou serviço fornecido pelo domínio public-apis.io.
+- [Rapidapi](https://rapidapi.com/blog/directory](https://rapidapi.com/blog/directory) — Ferramenta ou serviço fornecido pelo domínio rapidapi.com.
+- [Serpapi](https://serpapi.com](https://serpapi.com) — Ferramenta ou serviço fornecido pelo domínio serpapi.com.
+- [Github](https://github.com/kr-stn/awesome-sentinel](https://github.com/kr-stn/awesome-sentinel) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Thor-sec](https://thor-sec.com/tutorial/colab_hashcrack/](https://thor-sec.com/tutorial/colab_hashcrack/) — Ferramenta ou serviço fornecido pelo domínio thor-sec.com.
+- [Tunnelsup](https://tunnelsup.com/hash-analyzer/](https://tunnelsup.com/hash-analyzer/) — Ferramenta ou serviço fornecido pelo domínio tunnelsup.com.
+- [Hashes](https://hashes.com/en/decrypt/hash](https://hashes.com/en/decrypt/hash) — Ferramenta ou serviço fornecido pelo domínio hashes.com.
+- [Hashes](https://hashes.com/en/tools/hash_identifier](https://hashes.com/en/tools/hash_identifier) — Ferramenta ou serviço fornecido pelo domínio hashes.com.
+- [Crackstation](https://crackstation.net](https://crackstation.net) — Ferramenta ou serviço fornecido pelo domínio crackstation.net.
+- [Hashes](https://hashes.org](https://hashes.org) — Ferramenta ou serviço fornecido pelo domínio hashes.org.
+- [Ntlm](https://ntlm.pw/passwordcheck](https://ntlm.pw/passwordcheck) — Ferramenta ou serviço fornecido pelo domínio ntlm.pw.
+- [Esolangs](https://esolangs.org/wiki/Language_list](https://esolangs.org/wiki/Language_list) — Ferramenta ou serviço fornecido pelo domínio esolangs.org.
+- [Codebeautify](https://codebeautify.org/](https://codebeautify.org/) — Ferramenta ou serviço fornecido pelo domínio codebeautify.org.
+- [Github](https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Ifttt](https://ifttt.com](https://ifttt.com) — Ferramenta ou serviço fornecido pelo domínio ifttt.com.
+- [Dfir](https://dfir.blog/unfurl/](https://dfir.blog/unfurl/) — Ferramenta ou serviço fornecido pelo domínio dfir.blog.
+- [Publiccom](https://publicwww.com](https://publicwww.com) — Ferramenta ou serviço fornecido pelo domínio publicwww.com.
+- [Searchcode](https://searchcode.com](https://searchcode.com) — Ferramenta ou serviço fornecido pelo domínio searchcode.com.
+- [Regexper](https://regexper.com](https://regexper.com) — Ferramenta ou serviço fornecido pelo domínio regexper.com.
+- [Godbolt](https://godbolt.org](https://godbolt.org) — Ferramenta ou serviço fornecido pelo domínio godbolt.org.
+- [Snyk](https://snyk.io/pt-BR/code-checker/javascript/](https://snyk.io/pt-BR/code-checker/javascript/) — Ferramenta ou serviço fornecido pelo domínio snyk.io.
+- [Swanandx](https://swanandx.github.io/lemmeknow-frontend/](https://swanandx.github.io/lemmeknow-frontend/) — Ferramenta ou serviço fornecido pelo domínio swanandx.github.io.
+- [Github](https://github.com/D4Vinci/elpscrk](https://github.com/D4Vinci/elpscrk) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Github](https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Github](https://github.com/gmelodie/awesome-wordlists](https://github.com/gmelodie/awesome-wordlists) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Github](https://github.com/BRDumps/wordlists](https://github.com/BRDumps/wordlists) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Github](https://github.com/kkrypt0nn/Wordlists](https://github.com/kkrypt0nn/Wordlists) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Github](https://github.com/berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Github](https://github.com/xajkep/wordlists](https://github.com/xajkep/wordlists) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Gist](https://gist.github.com/jhaddix/b80ea67d85c13206125806f0828f4d10#file-content_discovery_all-txt](https://gist.github.com/jhaddix/b80ea67d85c13206125806f0828f4d10#file-content_discovery_all-txt) — Ferramenta ou serviço fornecido pelo domínio gist.github.com.
+- [Wordlists](https://wordlists.assetnote.io/](https://wordlists.assetnote.io/) — Ferramenta ou serviço fornecido pelo domínio wordlists.assetnote.io.
+- [Hide](https://hide.me/proxy](https://hide.me/proxy) — Ferramenta ou serviço fornecido pelo domínio hide.me.
+- [Spys](https://spys.one/en/](https://spys.one/en/) — Ferramenta ou serviço fornecido pelo domínio spys.one.
+- [Freeproxylists](https://www.freeproxylists.net/](https://www.freeproxylists.net/) — Ferramenta ou serviço fornecido pelo domínio www.freeproxylists.net.
+- [Croxyproxy](https://www.croxyproxy.com/](https://www.croxyproxy.com/) — Ferramenta ou serviço fornecido pelo domínio www.croxyproxy.com.
+- [Bellingcat](https://bellingcat.gitbook.io/toolkit](https://bellingcat.gitbook.io/toolkit) — Ferramenta ou serviço fornecido pelo domínio bellingcat.gitbook.io.
+- [Webbreacher](https://webbreacher.com/2022/08/12/resources-mentioned-in-my-2022-defcon-recon-village-keynote/](https://webbreacher.com/2022/08/12/resources-mentioned-in-my-2022-defcon-recon-village-keynote/) — Ferramenta ou serviço fornecido pelo domínio webbreacher.com.
+- [Journaliststoolbox](https://www.journaliststoolbox.org/](https://www.journaliststoolbox.org/) — Ferramenta ou serviço fornecido pelo domínio www.journaliststoolbox.org.
+- [Support](https://support.hunch.ly/](https://support.hunch.ly/) — Ferramenta ou serviço fornecido pelo domínio support.hunch.ly.
+- [Github](https://github.com/cipher387/cheatsheets](https://github.com/cipher387/cheatsheets) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Github](https://github.com/danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Os-surveillance](https://www.os-surveillance.io/](https://www.os-surveillance.io/) — Ferramenta ou serviço fornecido pelo domínio www.os-surveillance.io.
+- [Bellingcat](https://bellingcat.com](https://bellingcat.com) — Ferramenta ou serviço fornecido pelo domínio bellingcat.com.
+- [Tracelabs](https://tracelabs.org/blog](https://tracelabs.org/blog) — Ferramenta ou serviço fornecido pelo domínio tracelabs.org.
+- [Inteltechniques](https://inteltechniques.com/blog](https://inteltechniques.com/blog) — Ferramenta ou serviço fornecido pelo domínio inteltechniques.com.
+- [Webbreacher](https://webbreacher.com](https://webbreacher.com) — Ferramenta ou serviço fornecido pelo domínio webbreacher.com.
+- [Tracelabs](https://www.tracelabs.org/initiatives/search-party](https://www.tracelabs.org/initiatives/search-party) — Ferramenta ou serviço fornecido pelo domínio www.tracelabs.org.
+- [Hacktoria](https://hacktoria.com](https://hacktoria.com) — Ferramenta ou serviço fornecido pelo domínio hacktoria.com.
+- [Inteltechniques](https://www.inteltechniques.net/courses/open-source-intelligence](https://www.inteltechniques.net/courses/open-source-intelligence) — Ferramenta ou serviço fornecido pelo domínio www.inteltechniques.net.
+- [Sans](https://www.sans.org/cyber-security-courses/practical-open-source-intelligence/](https://www.sans.org/cyber-security-courses/practical-open-source-intelligence/) — Ferramenta ou serviço fornecido pelo domínio www.sans.org.
+- [Sans](https://www.sans.org/cyber-security-courses/advanced-open-source-intelligence-gathering-analysis/](https://www.sans.org/cyber-security-courses/advanced-open-source-intelligence-gathering-analysis/) — Ferramenta ou serviço fornecido pelo domínio www.sans.org.
+- [Inteltechniques](https://inteltechniques.com/book1.html](https://inteltechniques.com/book1.html) — Ferramenta ou serviço fornecido pelo domínio inteltechniques.com.
+- [Inteltechniques](https://inteltechniques.com/book7.html](https://inteltechniques.com/book7.html) — Ferramenta ou serviço fornecido pelo domínio inteltechniques.com.
+- [Raebaker](https://www.raebaker.net/deep-dive](https://www.raebaker.net/deep-dive) — Ferramenta ou serviço fornecido pelo domínio www.raebaker.net.
+- [Bellingcat](https://www.bellingcat.com/book/](https://www.bellingcat.com/book/) — Ferramenta ou serviço fornecido pelo domínio www.bellingcat.com.
+- [Ohchr](https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf](https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf) — Ferramenta ou serviço fornecido pelo domínio www.ohchr.org.
+- [Inteltechniques](https://inteltechniques.com/training-osip.html](https://inteltechniques.com/training-osip.html) — Ferramenta ou serviço fornecido pelo domínio inteltechniques.com.
+- [Giac](https://www.giac.org/certifications/open-source-intelligence-gosi/](https://www.giac.org/certifications/open-source-intelligence-gosi/) — Ferramenta ou serviço fornecido pelo domínio www.giac.org.
+- [Certifications](https://certifications.tcm-sec.com/porp/](https://certifications.tcm-sec.com/porp/) — Ferramenta ou serviço fornecido pelo domínio certifications.tcm-sec.com.
+- [Osmosisinstitute](https://osmosisinstitute.org/osc/](https://osmosisinstitute.org/osc/) — Ferramenta ou serviço fornecido pelo domínio osmosisinstitute.org.
+- [Escavador](https://www.escavador.com/](https://www.escavador.com/) — Ferramenta ou serviço fornecido pelo domínio www.escavador.com.
+- [Cadcobol](https://www.cadcobol.com.br/calcula_cpf_cnpj_caepf.htm](https://www.cadcobol.com.br/calcula_cpf_cnpj_caepf.htm) — Ferramenta ou serviço fornecido pelo domínio www.cadcobol.com.br.
+- [Buscaprime](https://buscaprime.com.br/](https://buscaprime.com.br/) — Ferramenta ou serviço fornecido pelo domínio buscaprime.com.br.
+- [Tudoconsulta](https://tudoconsulta.com/](https://tudoconsulta.com/) — Ferramenta ou serviço fornecido pelo domínio tudoconsulta.com.
+- [Investigaweb](https://investigaweb.com/](https://investigaweb.com/) — Ferramenta ou serviço fornecido pelo domínio investigaweb.com.
+- [Tudosobretodos](https://tudosobretodos.info/](https://tudosobretodos.info/) — Ferramenta ou serviço fornecido pelo domínio tudosobretodos.info.
+- [Intelx](https://intelx.io/tools](https://intelx.io/tools) — Ferramenta ou serviço fornecido pelo domínio intelx.io.
+- [Synapsint](https://synapsint.com/](https://synapsint.com/) — Ferramenta ou serviço fornecido pelo domínio synapsint.com.
+- [Webmii](https://webmii.com/](https://webmii.com/) — Ferramenta ou serviço fornecido pelo domínio webmii.com.
+- [Infotracer](https://infotracer.com](https://infotracer.com) — Ferramenta ou serviço fornecido pelo domínio infotracer.com.
+- [Skopenow](https://skopenow.com](https://skopenow.com) — Ferramenta ou serviço fornecido pelo domínio skopenow.com.
+- [Idcrawl](https://www.idcrawl.com](https://www.idcrawl.com) — Ferramenta ou serviço fornecido pelo domínio www.idcrawl.com.
+- [Sydex](http://sydex.net/](http://sydex.net/) — Ferramenta ou serviço fornecido pelo domínio sydex.net.
+- [Buzzglobe](https://buzzglobe.com/](https://buzzglobe.com/) — Ferramenta ou serviço fornecido pelo domínio buzzglobe.com.
+- [Dateas](https://dateas.com](https://dateas.com) — Ferramenta ou serviço fornecido pelo domínio dateas.com.
+- [Lusha](https://www.lusha.com](https://www.lusha.com) — Ferramenta ou serviço fornecido pelo domínio www.lusha.com.
+- [Truepeoplesearch](https://truepeoplesearch.com/](https://truepeoplesearch.com/) — Ferramenta ou serviço fornecido pelo domínio truepeoplesearch.com.
+- [Fastpeoplesearch](https://fastpeoplesearch.com/](https://fastpeoplesearch.com/) — Ferramenta ou serviço fornecido pelo domínio fastpeoplesearch.com.
+- [Nuwber](https://nuwber.com/](https://nuwber.com/) — Ferramenta ou serviço fornecido pelo domínio nuwber.com.
+- [Xlek](https://xlek.com/](https://xlek.com/) — Ferramenta ou serviço fornecido pelo domínio xlek.com.
+- [Familytreenow](https://familytreenow.com/](https://familytreenow.com/) — Ferramenta ou serviço fornecido pelo domínio familytreenow.com.
+- [Intelius](https://intelius.com/](https://intelius.com/) — Serviço de consulta de antecedentes, informações pessoais e registros públicos.
+- [Radaris](https://radaris.com/](https://radaris.com/) — Ferramenta ou serviço fornecido pelo domínio radaris.com.
+- [Ufind](https://ufind.name/](https://ufind.name/) — Ferramenta ou serviço fornecido pelo domínio ufind.name.
+- [Spytox](https://spytox.com/](https://spytox.com/) — Ferramenta ou serviço fornecido pelo domínio spytox.com.
+- [Searchpeoplefree](https://searchpeoplefree.com/](https://searchpeoplefree.com/) — Ferramenta ou serviço fornecido pelo domínio searchpeoplefree.com.
+- [Johndoe](https://johndoe.com/](https://johndoe.com/) — Ferramenta ou serviço fornecido pelo domínio johndoe.com.
+- [Thatsthem](https://thatsthem.com/](https://thatsthem.com/) — Ferramenta ou serviço fornecido pelo domínio thatsthem.com.
+- [Spokeo](https://spokeo.com/](https://spokeo.com/) — Ferramenta ou serviço fornecido pelo domínio spokeo.com.
+- [Advancedbackgroundchecks](https://advancedbackgroundchecks.com/](https://advancedbackgroundchecks.com/) — Ferramenta ou serviço fornecido pelo domínio advancedbackgroundchecks.com.
+- [Yasni](https://yasni.com/](https://yasni.com/) — Ferramenta ou serviço fornecido pelo domínio yasni.com.
+- [Zabasearch](https://zabasearch.com/](https://zabasearch.com/) — Ferramenta ou serviço fornecido pelo domínio zabasearch.com.
+- [Peoplesearchnow](https://peoplesearchnow.com/](https://peoplesearchnow.com/) — Ferramenta ou serviço fornecido pelo domínio peoplesearchnow.com.
+- [Truthfinder](https://truthfinder.com/](https://truthfinder.com/) — Ferramenta ou serviço fornecido pelo domínio truthfinder.com.
+- [Peoplebyname](https://peoplebyname.com/](https://peoplebyname.com/) — Ferramenta ou serviço fornecido pelo domínio peoplebyname.com.
+- [Whitepages](https://whitepages.com/](https://whitepages.com/) — Ferramenta ou serviço fornecido pelo domínio whitepages.com.
+- [Findpeoplesearch](https://findpeoplesearch.com/](https://findpeoplesearch.com/) — Ferramenta ou serviço fornecido pelo domínio findpeoplesearch.com.
+- [Publicrecords](https://publicrecords.directory/](https://publicrecords.directory/) — Ferramenta ou serviço fornecido pelo domínio publicrecords.directory.
+- [Whoodle](https://whoodle.com/](https://whoodle.com/) — Ferramenta ou serviço fornecido pelo domínio whoodle.com.
+- [Howmanyofme](https://howmanyofme.com/](https://howmanyofme.com/) — Ferramenta ou serviço fornecido pelo domínio howmanyofme.com.
+- [Classmates](https://classmates.com/](https://classmates.com/) — Ferramenta ou serviço fornecido pelo domínio classmates.com.
+- [Homemetry](https://homemetry.com/](https://homemetry.com/) — Ferramenta ou serviço fornecido pelo domínio homemetry.com.
+- [Fdic](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/unclaimed-property-states.html](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/unclaimed-property-states.html) — Ferramenta ou serviço fornecido pelo domínio www.fdic.gov.
+- [Unclaimed](https://unclaimed.org/search/](https://unclaimed.org/search/) — Ferramenta ou serviço fornecido pelo domínio unclaimed.org.
+- [Missingmoney](https://www.missingmoney.com/en/](https://www.missingmoney.com/en/) — Ferramenta ou serviço fornecido pelo domínio www.missingmoney.com.
+- [Ucpi](https://ucpi.sco.ca.gov/en/Property/SearchIndex](https://ucpi.sco.ca.gov/en/Property/SearchIndex) — Ferramenta ou serviço fornecido pelo domínio ucpi.sco.ca.gov.
+- [1websdirectory](https://www.1websdirectory.com/](https://www.1websdirectory.com/) — Ferramenta ou serviço fornecido pelo domínio www.1websdirectory.com.
+- [Namesandfacts](https://namesandfacts.com/](https://namesandfacts.com/) — Ferramenta ou serviço fornecido pelo domínio namesandfacts.com.
+- [Context](https://context.reverso.net/traducao/](https://context.reverso.net/traducao/) — Ferramenta ou serviço fornecido pelo domínio context.reverso.net.
+- [Deepl](https://deepl.com](https://deepl.com) — Ferramenta ou serviço fornecido pelo domínio deepl.com.
+- [Grammarly](https://www.grammarly.com/](https://www.grammarly.com/) — Ferramenta ou serviço fornecido pelo domínio www.grammarly.com.
+- [Localingual](https://localingual.com/](https://localingual.com/) — Ferramenta ou serviço fornecido pelo domínio localingual.com.
+- [Typeit](https://www.typeit.org](https://www.typeit.org) — Ferramenta ou serviço fornecido pelo domínio www.typeit.org.
+- [Emojipedia](https://emojipedia.org](https://emojipedia.org) — Ferramenta ou serviço fornecido pelo domínio emojipedia.org.
+- [2lingual](https://www.2lingual.com/](https://www.2lingual.com/) — Ferramenta ou serviço fornecido pelo domínio www.2lingual.com.
+- [Servicos](http://servicos.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Solicitacao.asp](http://servicos.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Solicitacao.asp) — Ferramenta ou serviço fornecido pelo domínio servicos.receita.fazenda.gov.br.
+- [Listadevedores](https://www.listadevedores.pgfn.gov.br/](https://www.listadevedores.pgfn.gov.br/) — Ferramenta ou serviço fornecido pelo domínio www.listadevedores.pgfn.gov.br.
+- [Servicos](https://servicos.receita.fazenda.gov.br/Servicos/certidaointernet/PJ/Emitir](https://servicos.receita.fazenda.gov.br/Servicos/certidaointernet/PJ/Emitir) — Ferramenta ou serviço fornecido pelo domínio servicos.receita.fazenda.gov.br.
+- [Site](https://site.cenprotnacional.org.br/](https://site.cenprotnacional.org.br/) — Ferramenta ou serviço fornecido pelo domínio site.cenprotnacional.org.br.
+- [Infobel](https://www.infobel.com/pt/brazil](https://www.infobel.com/pt/brazil) — Ferramenta ou serviço fornecido pelo domínio www.infobel.com.
+- [Opencorporates](https://opencorporates.com/](https://opencorporates.com/) — Ferramenta ou serviço fornecido pelo domínio opencorporates.com.
+- [Aihitdata](https://www.aihitdata.com](https://www.aihitdata.com) — Ferramenta ou serviço fornecido pelo domínio www.aihitdata.com.
+- [Aleph](https://aleph.occrp.org/](https://aleph.occrp.org/) — Ferramenta ou serviço fornecido pelo domínio aleph.occrp.org.
+- [Id](https://id.occrp.org/databases/](https://id.occrp.org/databases/) — Ferramenta ou serviço fornecido pelo domínio id.occrp.org.
+- [Kompass](https://www.kompass.com/selectcountry/](https://www.kompass.com/selectcountry/) — Ferramenta ou serviço fornecido pelo domínio www.kompass.com.
+- [Inteltechniques](https://inteltechniques.com/tools/Business.html](https://inteltechniques.com/tools/Business.html) — Ferramenta ou serviço fornecido pelo domínio inteltechniques.com.
+- [Indeed](https://indeed.com](https://indeed.com) — Ferramenta ou serviço fornecido pelo domínio indeed.com.
+- [Brownbook](https://www.brownbook.net](https://www.brownbook.net) — Ferramenta ou serviço fornecido pelo domínio www.brownbook.net.
+- [Offshoreleaks](https://offshoreleaks.icij.org](https://offshoreleaks.icij.org) — Ferramenta ou serviço fornecido pelo domínio offshoreleaks.icij.org.
+- [Littlesis](https://littlesis.org/home/dashboard](https://littlesis.org/home/dashboard) — Ferramenta ou serviço fornecido pelo domínio littlesis.org.
+- [Crunchbase](https://www.crunchbase.com/](https://www.crunchbase.com/) — Ferramenta ou serviço fornecido pelo domínio www.crunchbase.com.
+- [Glassdoor](https://www.glassdoor.com.br/index.htm](https://www.glassdoor.com.br/index.htm) — Ferramenta ou serviço fornecido pelo domínio www.glassdoor.com.br.
+- [Apollo](https://www.apollo.io/](https://www.apollo.io/) — Ferramenta ou serviço fornecido pelo domínio www.apollo.io.
+- [Kununu](https://www.kununu.com/](https://www.kununu.com/) — Ferramenta ou serviço fornecido pelo domínio www.kununu.com.
+- [Enigma](https://enigma.com/](https://enigma.com/) — Ferramenta ou serviço fornecido pelo domínio enigma.com.
+- [Charitynavigator](https://www.charitynavigator.org](https://www.charitynavigator.org) — Ferramenta ou serviço fornecido pelo domínio www.charitynavigator.org.
+- [Lobbyfacts](https://www.lobbyfacts.eu/](https://www.lobbyfacts.eu/) — Ferramenta ou serviço fornecido pelo domínio www.lobbyfacts.eu.
+- [Corporationwiki](https://www.corporationwiki.com/](https://www.corporationwiki.com/) — Ferramenta ou serviço fornecido pelo domínio www.corporationwiki.com.
+- [Northdata](https://www.northdata.com](https://www.northdata.com) — Ferramenta ou serviço fornecido pelo domínio www.northdata.com.
+- [Registrocivil](https://registrocivil.org.br/](https://registrocivil.org.br/) — Ferramenta ou serviço fornecido pelo domínio registrocivil.org.br.
+- [Registrodeimoveis](https://www.registrodeimoveis.org.br/](https://www.registrodeimoveis.org.br/) — Ferramenta ou serviço fornecido pelo domínio www.registrodeimoveis.org.br.
+- [Registradores](https://registradores.onr.org.br](https://registradores.onr.org.br) — Ferramenta ou serviço fornecido pelo domínio registradores.onr.org.br.
+- [Proclamas](https://proclamas.org.br/](https://proclamas.org.br/) — Ferramenta ou serviço fornecido pelo domínio proclamas.org.br.
+- [Censec](https://censec.org.br](https://censec.org.br) — Ferramenta ou serviço fornecido pelo domínio censec.org.br.
+- [Falecidosnobrasil](https://www.falecidosnobrasil.org.br/](https://www.falecidosnobrasil.org.br/) — Ferramenta ou serviço fornecido pelo domínio www.falecidosnobrasil.org.br.
+- [Queridodiario](https://queridodiario.ok.org.br/](https://queridodiario.ok.org.br/) — Ferramenta ou serviço fornecido pelo domínio queridodiario.ok.org.br.
+- [Servicos](https://servicos.dpf.gov.br/antecedentes-criminais/certidao](https://servicos.dpf.gov.br/antecedentes-criminais/certidao) — Ferramenta ou serviço fornecido pelo domínio servicos.dpf.gov.br.
+- [Idpol](http://idpol.ac.gov.br/services/emitiraac](http://idpol.ac.gov.br/services/emitiraac) — Ferramenta ou serviço fornecido pelo domínio idpol.ac.gov.br.
+- [Alagoasdigital](https://alagoasdigital.al.gov.br/servico/5ad0ca49547bb35f4dbfdf97/emissao-de-certidao-de-antecedente-criminal](https://alagoasdigital.al.gov.br/servico/5ad0ca49547bb35f4dbfdf97/emissao-de-certidao-de-antecedente-criminal) — Ferramenta ou serviço fornecido pelo domínio alagoasdigital.al.gov.br.
+- [Policiacivil](http://www.policiacivil.am.gov.br/pagina/id/14/](http://www.policiacivil.am.gov.br/pagina/id/14/) — Ferramenta ou serviço fornecido pelo domínio www.policiacivil.am.gov.br.
+- [Politec](http://www.politec.ap.gov.br/proesc/login/registra/login.php](http://www.politec.ap.gov.br/proesc/login/registra/login.php) — Ferramenta ou serviço fornecido pelo domínio www.politec.ap.gov.br.
+- [Ba](http://www.ba.gov.br/antecedentes/solicitar_atestado.asp](http://www.ba.gov.br/antecedentes/solicitar_atestado.asp) — Ferramenta ou serviço fornecido pelo domínio www.ba.gov.br.
+- [Sistemas](https://sistemas.sspds.ce.gov.br/AtestadoAntecedentes/](https://sistemas.sspds.ce.gov.br/AtestadoAntecedentes/) — Ferramenta ou serviço fornecido pelo domínio sistemas.sspds.ce.gov.br.
+- [Certidaoweb](https://certidaoweb.pcdf.df.gov.br/Views/cadastro.aspx](https://certidaoweb.pcdf.df.gov.br/Views/cadastro.aspx) — Ferramenta ou serviço fornecido pelo domínio certidaoweb.pcdf.df.gov.br.
+- [Ssp](http://ssp.sesp.es.gov.br/rgantecedentes/](http://ssp.sesp.es.gov.br/rgantecedentes/) — Ferramenta ou serviço fornecido pelo domínio ssp.sesp.es.gov.br.
+- [Iivirtual](https://iivirtual.ssp.go.gov.br/#/antecedente-criminal](https://iivirtual.ssp.go.gov.br/#/antecedente-criminal) — Ferramenta ou serviço fornecido pelo domínio iivirtual.ssp.go.gov.br.
+- [Wwws](https://wwws.pc.mg.gov.br/atestado/solicitarsel.do?evento=x&fwPlc=s](https://wwws.pc.mg.gov.br/atestado/solicitarsel.do?evento=x&fwPlc=s) — Ferramenta ou serviço fornecido pelo domínio wwws.pc.mg.gov.br.
+- [Antecedentes](https://antecedentes.ssp.ma.gov.br/](https://antecedentes.ssp.ma.gov.br/) — Ferramenta ou serviço fornecido pelo domínio antecedentes.ssp.ma.gov.br.
+- [Portal](https://portal.sesp.mt.gov.br/portaldaseguranca/pages/criminal/emissaoAntecedentesCriminais.seam](https://portal.sesp.mt.gov.br/portaldaseguranca/pages/criminal/emissaoAntecedentesCriminais.seam) — Ferramenta ou serviço fornecido pelo domínio portal.sesp.mt.gov.br.
+- [Antecedentes](https://antecedentes.policiacivil.pa.gov.br/consulta](https://antecedentes.policiacivil.pa.gov.br/consulta) — Ferramenta ou serviço fornecido pelo domínio antecedentes.policiacivil.pa.gov.br.
+- [Policiacivil](https://www.policiacivil.pb.gov.br/servicos/certidao-de-antecedentes-criminais](https://www.policiacivil.pb.gov.br/servicos/certidao-de-antecedentes-criminais) — Ferramenta ou serviço fornecido pelo domínio www.policiacivil.pb.gov.br.
+- [Policiacivil](https://www.policiacivil.pr.gov.br/Pagina/Solicitar-Atestados](https://www.policiacivil.pr.gov.br/Pagina/Solicitar-Atestados) — Ferramenta ou serviço fornecido pelo domínio www.policiacivil.pr.gov.br.
+- [Servicos](http://www.servicos.sds.pe.gov.br/antecedentes/public/pages/certidaoAntecedentesCriminais/certidaoAntecedentesCriminaisEmitir.jsf](http://www.servicos.sds.pe.gov.br/antecedentes/public/pages/certidaoAntecedentesCriminais/certidaoAntecedentesCriminaisEmitir.jsf) — Ferramenta ou serviço fornecido pelo domínio www.servicos.sds.pe.gov.br.
+- [Pc](http://www.pc.pi.gov.br/certidao.php](http://www.pc.pi.gov.br/certidao.php) — Ferramenta ou serviço fornecido pelo domínio www.pc.pi.gov.br.
+- [Atestadodic](http://atestadodic.detran.rj.gov.br/](http://atestadodic.detran.rj.gov.br/) — Ferramenta ou serviço fornecido pelo domínio atestadodic.detran.rj.gov.br.
+- [Pc](https://www.pc.rs.gov.br/emitir-certidao-de-antecedentes-policiais](https://www.pc.rs.gov.br/emitir-certidao-de-antecedentes-policiais) — Ferramenta ou serviço fornecido pelo domínio www.pc.rs.gov.br.
+- [Portaldocidadao](https://portaldocidadao.ro.gov.br/Servico/Detalhes?id=52935816-bebf-4305-c92c-08da1e433f77](https://portaldocidadao.ro.gov.br/Servico/Detalhes?id=52935816-bebf-4305-c92c-08da1e433f77) — Ferramenta ou serviço fornecido pelo domínio portaldocidadao.ro.gov.br.
+- [Idnetbrasil](http://www.idnetbrasil.rr.gov.br/AtestadoWeb/pages/MasterPages/IUPrincipal.aspx#](http://www.idnetbrasil.rr.gov.br/AtestadoWeb/pages/MasterPages/IUPrincipal.aspx#) — Ferramenta ou serviço fornecido pelo domínio www.idnetbrasil.rr.gov.br.
+- [Sc](https://www.sc.gov.br/servicos/detalhe/expedir-atestado-de-antecedentes](https://www.sc.gov.br/servicos/detalhe/expedir-atestado-de-antecedentes) — Ferramenta ou serviço fornecido pelo domínio www.sc.gov.br.
+- [Ssp](http://www.ssp.sp.gov.br/servicos/atestado.aspx](http://www.ssp.sp.gov.br/servicos/atestado.aspx) — Ferramenta ou serviço fornecido pelo domínio www.ssp.sp.gov.br.
+- [Antecedentes](http://antecedentes.ssp.se.gov.br/antecedentes/index.asp?pagina=frmSolicitarAtestado](http://antecedentes.ssp.se.gov.br/antecedentes/index.asp?pagina=frmSolicitarAtestado) — Ferramenta ou serviço fornecido pelo domínio antecedentes.ssp.se.gov.br.
+- [Ssp](https://www.ssp.to.gov.br/policia-cientifica/institutos/instituto-de-identificacao/emissao-de-atestado-de-antecedentes-/](https://www.ssp.to.gov.br/policia-cientifica/institutos/instituto-de-identificacao/emissao-de-atestado-de-antecedentes-/) — Ferramenta ou serviço fornecido pelo domínio www.ssp.to.gov.br.
+- [Servicos](https://servicos.receita.fazenda.gov.br/Servicos/certidaointernet/PF/Emitir](https://servicos.receita.fazenda.gov.br/Servicos/certidaointernet/PF/Emitir) — Ferramenta ou serviço fornecido pelo domínio servicos.receita.fazenda.gov.br.
+- [Site](https://site.cenprotnacional.org.br/](https://site.cenprotnacional.org.br/) — Ferramenta ou serviço fornecido pelo domínio site.cenprotnacional.org.br.
+- [Listadevedores](https://www.listadevedores.pgfn.gov.br/](https://www.listadevedores.pgfn.gov.br/) — Ferramenta ou serviço fornecido pelo domínio www.listadevedores.pgfn.gov.br.
+- [Serasa](https://www.serasa.com.br/?v=true&vp=portal&vpth=%2F&vt=Voltar&vru=%2Farea-cliente](https://www.serasa.com.br/?v=true&vp=portal&vpth=%2F&vt=Voltar&vru=%2Farea-cliente) — Ferramenta ou serviço fornecido pelo domínio www.serasa.com.br.
+- [Consumidorpositivo](https://www.consumidorpositivo.com.br/](https://www.consumidorpositivo.com.br/) — Ferramenta ou serviço fornecido pelo domínio www.consumidorpositivo.com.br.
+- [Sefaz](https://sefaz.ac.gov.br/2021/](https://sefaz.ac.gov.br/2021/) — Ferramenta ou serviço fornecido pelo domínio sefaz.ac.gov.br.
+- [Contribuinte](https://contribuinte.sefaz.al.gov.br/certidao/#/certidao-principal](https://contribuinte.sefaz.al.gov.br/certidao/#/certidao-principal) — Ferramenta ou serviço fornecido pelo domínio contribuinte.sefaz.al.gov.br.
+- [Sefaz](http://www.sefaz.am.gov.br/certidoes.asp](http://www.sefaz.am.gov.br/certidoes.asp) — Ferramenta ou serviço fornecido pelo domínio www.sefaz.am.gov.br.
+- [Sefaz](http://www.sefaz.ap.gov.br/sate/seg/SEGf_AcessarFuncao.jsp?cdFuncao=DIA_060](http://www.sefaz.ap.gov.br/sate/seg/SEGf_AcessarFuncao.jsp?cdFuncao=DIA_060) — Ferramenta ou serviço fornecido pelo domínio www.sefaz.ap.gov.br.
+- [Sefaz](https://www.sefaz.ba.gov.br/s/cartadeservicos/index.asp](https://www.sefaz.ba.gov.br/s/cartadeservicos/index.asp) — Ferramenta ou serviço fornecido pelo domínio www.sefaz.ba.gov.br.
+- [Cidades](https://www.cidades.ce.gov.br/certidoes/](https://www.cidades.ce.gov.br/certidoes/) — Ferramenta ou serviço fornecido pelo domínio www.cidades.ce.gov.br.
+- [Ww1](https://ww1.receita.fazenda.df.gov.br/cidadao/certidoes/Certidao](https://ww1.receita.fazenda.df.gov.br/cidadao/certidoes/Certidao) — Ferramenta ou serviço fornecido pelo domínio ww1.receita.fazenda.df.gov.br.
+- [Internet](https://internet.sefaz.es.gov.br/agenciavirtual/area_publica/cnd/index.php](https://internet.sefaz.es.gov.br/agenciavirtual/area_publica/cnd/index.php) — Ferramenta ou serviço fornecido pelo domínio internet.sefaz.es.gov.br.
+- [Sefaz](https://www.sefaz.go.gov.br/Certidao/Emissao/](https://www.sefaz.go.gov.br/Certidao/Emissao/) — Ferramenta ou serviço fornecido pelo domínio www.sefaz.go.gov.br.
+- [Sistemas1](https://sistemas1.sefaz.ma.gov.br/portalsefaz/jsp/menu/view.jsf?codigo=16](https://sistemas1.sefaz.ma.gov.br/portalsefaz/jsp/menu/view.jsf?codigo=16) — Ferramenta ou serviço fornecido pelo domínio sistemas1.sefaz.ma.gov.br.
+- [Www2](https://www2.fazenda.mg.gov.br/sol/ctrl/SOL/CDT/SERVICO_829?ACAO=INICIAR](https://www2.fazenda.mg.gov.br/sol/ctrl/SOL/CDT/SERVICO_829?ACAO=INICIAR) — Ferramenta ou serviço fornecido pelo domínio www2.fazenda.mg.gov.br.
+- [Sefaz](https://www.sefaz.ms.gov.br/servicos/certidao-negativa/](https://www.sefaz.ms.gov.br/servicos/certidao-negativa/) — Ferramenta ou serviço fornecido pelo domínio www.sefaz.ms.gov.br.
+- [Sefaz](https://www.sefaz.mt.gov.br/cnd/certidao/servlet/ServletRotd?origem=60](https://www.sefaz.mt.gov.br/cnd/certidao/servlet/ServletRotd?origem=60) — Ferramenta ou serviço fornecido pelo domínio www.sefaz.mt.gov.br.
+- [App](https://app.sefa.pa.gov.br/emissao-certidao/template.action](https://app.sefa.pa.gov.br/emissao-certidao/template.action) — Ferramenta ou serviço fornecido pelo domínio app.sefa.pa.gov.br.
+- [Sefaz](https://www.sefaz.pb.gov.br/servirtual/certidoes/emissao-de-certidao-de-debitos-cidadao](https://www.sefaz.pb.gov.br/servirtual/certidoes/emissao-de-certidao-de-debitos-cidadao) — Ferramenta ou serviço fornecido pelo domínio www.sefaz.pb.gov.br.
+- [Efisco](https://efisco.sefaz.pe.gov.br/sfi_trb_gpf/PREmitirCertidaoNegativaNarrativaDebitoFiscal](https://efisco.sefaz.pe.gov.br/sfi_trb_gpf/PREmitirCertidaoNegativaNarrativaDebitoFiscal) — Ferramenta ou serviço fornecido pelo domínio efisco.sefaz.pe.gov.br.
+- [Webas](https://webas.sefaz.pi.gov.br/certidaonft-web/index.xhtml](https://webas.sefaz.pi.gov.br/certidaonft-web/index.xhtml) — Ferramenta ou serviço fornecido pelo domínio webas.sefaz.pi.gov.br.
+- [Cdw](http://www.cdw.fazenda.pr.gov.br/cdw/emissao/certidaoAutomatica](http://www.cdw.fazenda.pr.gov.br/cdw/emissao/certidaoAutomatica) — Ferramenta ou serviço fornecido pelo domínio www.cdw.fazenda.pr.gov.br.
+- [Www4](https://www4.fazenda.rj.gov.br/certidao-fiscal-web/emitirCertidao.jsf](https://www4.fazenda.rj.gov.br/certidao-fiscal-web/emitirCertidao.jsf) — Ferramenta ou serviço fornecido pelo domínio www4.fazenda.rj.gov.br.
+- [Uvt2](https://uvt2.set.rn.gov.br/#/services/certidao-negativa/emitir](https://uvt2.set.rn.gov.br/#/services/certidao-negativa/emitir) — Ferramenta ou serviço fornecido pelo domínio uvt2.set.rn.gov.br.
+- [Sefaz](https://www.sefaz.rs.gov.br/sat/CertidaoSitFiscalSolic.aspx](https://www.sefaz.rs.gov.br/sat/CertidaoSitFiscalSolic.aspx) — Ferramenta ou serviço fornecido pelo domínio www.sefaz.rs.gov.br.
+- [Portalcontribuinte](https://portalcontribuinte.sefin.ro.gov.br/Publico/certidaoNegativa.jsp](https://portalcontribuinte.sefin.ro.gov.br/Publico/certidaoNegativa.jsp) — Ferramenta ou serviço fornecido pelo domínio portalcontribuinte.sefin.ro.gov.br.
+- [Sefaz](https://www.sefaz.rr.gov.br/empresa/certidao-negativa-de-debitos](https://www.sefaz.rr.gov.br/empresa/certidao-negativa-de-debitos) — Ferramenta ou serviço fornecido pelo domínio www.sefaz.rr.gov.br.
+- [Sat](https://sat.sef.sc.gov.br/tax.NET/Sat.CtaCte.Web/SolicitacaoCnd.aspx](https://sat.sef.sc.gov.br/tax.NET/Sat.CtaCte.Web/SolicitacaoCnd.aspx) — Ferramenta ou serviço fornecido pelo domínio sat.sef.sc.gov.br.
+- [Www10](https://www10.fazenda.sp.gov.br/CertidaoNegativaDeb/Pages/EmissaoCertidaoNegativa.aspx](https://www10.fazenda.sp.gov.br/CertidaoNegativaDeb/Pages/EmissaoCertidaoNegativa.aspx) — Ferramenta ou serviço fornecido pelo domínio www10.fazenda.sp.gov.br.
+- [Ceac](https://www.ceac.se.gov.br/emissao-de-certidao-negativa-e-de-regularidade-sefaz/](https://www.ceac.se.gov.br/emissao-de-certidao-negativa-e-de-regularidade-sefaz/) — Ferramenta ou serviço fornecido pelo domínio www.ceac.se.gov.br.
+- [Apps](http://apps.sefaz.to.gov.br/cnd/servlet/hecwbcnd01](http://apps.sefaz.to.gov.br/cnd/servlet/hecwbcnd01) — Ferramenta ou serviço fornecido pelo domínio apps.sefaz.to.gov.br.
+- [Escavador](https://www.escavador.com/solucoes/consulta-de-processos](https://www.escavador.com/solucoes/consulta-de-processos) — Ferramenta ou serviço fornecido pelo domínio www.escavador.com.
+- [Portaldatransparencia](http://www.portaldatransparencia.gov.br/servidores/consulta](http://www.portaldatransparencia.gov.br/servidores/consulta) — Ferramenta ou serviço fornecido pelo domínio www.portaldatransparencia.gov.br.
+- [Transparencia](http://transparencia.ac.gov.br/#/dashboard) — Ferramenta ou serviço fornecido pelo domínio transparencia.ac.gov.br.
+- [Transparencia](http://transparencia.al.gov.br/](http://transparencia.al.gov.br/) — Ferramenta ou serviço fornecido pelo domínio transparencia.al.gov.br.
+- [Transparencia](http://www.transparencia.ap.gov.br/](http://www.transparencia.ap.gov.br/) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.ap.gov.br.
+- [Transparencia](http://www.transparencia.am.gov.br/](http://www.transparencia.am.gov.br/) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.am.gov.br.
+- [Transparencia](http://www.transparencia.ba.gov.br/](http://www.transparencia.ba.gov.br/) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.ba.gov.br.
+- [Cearatransparente](https://cearatransparente.ce.gov.br/](https://cearatransparente.ce.gov.br/) — Ferramenta ou serviço fornecido pelo domínio cearatransparente.ce.gov.br.
+- [Transparencia](http://www.transparencia.df.gov.br/#/](http://www.transparencia.df.gov.br/#/) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.df.gov.br.
+- [Transparencia](https://transparencia.es.gov.br/](https://transparencia.es.gov.br/) — Ferramenta ou serviço fornecido pelo domínio transparencia.es.gov.br.
+- [Transparencia](http://www.transparencia.go.gov.br/portaldatransparencia/](http://www.transparencia.go.gov.br/portaldatransparencia/) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.go.gov.br.
+- [Transparencia](http://www.transparencia.ma.gov.br/](http://www.transparencia.ma.gov.br/) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.ma.gov.br.
+- [Transparencia](http://www.transparencia.mt.gov.br/](http://www.transparencia.mt.gov.br/) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.mt.gov.br.
+- [Transparencia](http://www.transparencia.ms.gov.br/](http://www.transparencia.ms.gov.br/) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.ms.gov.br.
+- [Transparencia](http://www.transparencia.mg.gov.br/](http://www.transparencia.mg.gov.br/) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.mg.gov.br.
+- [Transparencia](https://transparencia.pb.gov.br/](https://transparencia.pb.gov.br/) — Ferramenta ou serviço fornecido pelo domínio transparencia.pb.gov.br.
+- [Transparencia](http://www.transparencia.pr.gov.br](http://www.transparencia.pr.gov.br) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.pr.gov.br.
+- [Web](http://web.transparencia.pe.gov.br/](http://web.transparencia.pe.gov.br/) — Ferramenta ou serviço fornecido pelo domínio web.transparencia.pe.gov.br.
+- [Transparencia](http://transparencia.pi.gov.br/](http://transparencia.pi.gov.br/) — Ferramenta ou serviço fornecido pelo domínio transparencia.pi.gov.br.
+- [Transparencia](http://www.transparencia.rj.gov.br](http://www.transparencia.rj.gov.br) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.rj.gov.br.
+- [Transparencia](http://transparencia.rn.gov.br/](http://transparencia.rn.gov.br/) — Ferramenta ou serviço fornecido pelo domínio transparencia.rn.gov.br.
+- [Transparencia](http://www.transparencia.rs.gov.br](http://www.transparencia.rs.gov.br) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.rs.gov.br.
+- [Transparencia](https://www.transparencia.ro.gov.br/](https://www.transparencia.ro.gov.br/) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.ro.gov.br.
+- [Transparencia](https://www.transparencia.rr.gov.br/](https://www.transparencia.rr.gov.br/) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.rr.gov.br.
+- [Transparencia](http://www.transparencia.sc.gov.br/](http://www.transparencia.sc.gov.br/) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.sc.gov.br.
+- [Transparencia](http://www.transparencia.sp.gov.br/](http://www.transparencia.sp.gov.br/) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.sp.gov.br.
+- [Transparencia](https://transparencia.se.gov.br/](https://transparencia.se.gov.br/) — Ferramenta ou serviço fornecido pelo domínio transparencia.se.gov.br.
+- [Transparencia2](https://www.transparencia2.to.gov.br/](https://www.transparencia2.to.gov.br/) — Ferramenta ou serviço fornecido pelo domínio www.transparencia2.to.gov.br.
+- [Camara](https://www.camara.leg.br/transparencia/recursos-humanos/](https://www.camara.leg.br/transparencia/recursos-humanos/) — Ferramenta ou serviço fornecido pelo domínio www.camara.leg.br.
+- [Senado](http://www.senado.leg.br/transparencia/rh/servidores/nova_consulta.asp](http://www.senado.leg.br/transparencia/rh/servidores/nova_consulta.asp) — Ferramenta ou serviço fornecido pelo domínio www.senado.leg.br.
+- [App](http://app.al.ac.leg.br/](http://app.al.ac.leg.br/) — Ferramenta ou serviço fornecido pelo domínio app.al.ac.leg.br.
+- [Al](https://www.al.al.leg.br/transparencia](https://www.al.al.leg.br/transparencia) — Ferramenta ou serviço fornecido pelo domínio www.al.al.leg.br.
+- [Al](http://www.al.ap.gov.br/transparencia/](http://www.al.ap.gov.br/transparencia/) — Ferramenta ou serviço fornecido pelo domínio www.al.ap.gov.br.
+- [Ale](http://www.ale.am.gov.br/transparencia/](http://www.ale.am.gov.br/transparencia/) — Ferramenta ou serviço fornecido pelo domínio www.ale.am.gov.br.
+- [Al](https://www.al.ba.gov.br/transparencia](https://www.al.ba.gov.br/transparencia) — Ferramenta ou serviço fornecido pelo domínio www.al.ba.gov.br.
+- [Al](https://www.al.ce.gov.br/index.php/transparencia/portal-da-transparencia](https://www.al.ce.gov.br/index.php/transparencia/portal-da-transparencia) — Ferramenta ou serviço fornecido pelo domínio www.al.ce.gov.br.
+- [Cl](https://www.cl.df.gov.br/transparencia](https://www.cl.df.gov.br/transparencia) — Ferramenta ou serviço fornecido pelo domínio www.cl.df.gov.br.
+- [Al](https://www.al.es.gov.br/Transparencia](https://www.al.es.gov.br/Transparencia) — Ferramenta ou serviço fornecido pelo domínio www.al.es.gov.br.
+- [Transparencia](https://transparencia.al.go.leg.br/](https://transparencia.al.go.leg.br/) — Ferramenta ou serviço fornecido pelo domínio transparencia.al.go.leg.br.
+- [Al](https://www.al.ma.leg.br/transparencia/gd_consulta.php](https://www.al.ma.leg.br/transparencia/gd_consulta.php) — Ferramenta ou serviço fornecido pelo domínio www.al.ma.leg.br.
+- [Al](https://www.al.mt.gov.br/transparencia/](https://www.al.mt.gov.br/transparencia/) — Ferramenta ou serviço fornecido pelo domínio www.al.mt.gov.br.
+- [Transparencia](https://www.transparencia.al.ms.gov.br/pages/index.php/home](https://www.transparencia.al.ms.gov.br/pages/index.php/home) — Ferramenta ou serviço fornecido pelo domínio www.transparencia.al.ms.gov.br.
+- [Almg](https://www.almg.gov.br/sobre/transparencia/index.html](https://www.almg.gov.br/sobre/transparencia/index.html) — Ferramenta ou serviço fornecido pelo domínio www.almg.gov.br.
+- [Transparencia](http://transparencia.alepa.pa.gov.br/](http://transparencia.alepa.pa.gov.br/) — Ferramenta ou serviço fornecido pelo domínio transparencia.alepa.pa.gov.br.
+- [Al](http://www.al.pb.leg.br/transparencia](http://www.al.pb.leg.br/transparencia) — Ferramenta ou serviço fornecido pelo domínio www.al.pb.leg.br.
+- [Transparencia](http://transparencia.assembleia.pr.leg.br/](http://transparencia.assembleia.pr.leg.br/) — Ferramenta ou serviço fornecido pelo domínio transparencia.assembleia.pr.leg.br.
+- [Alepe](https://www.alepe.pe.gov.br/servidores-remuneracao/](https://www.alepe.pe.gov.br/servidores-remuneracao/) — Ferramenta ou serviço fornecido pelo domínio www.alepe.pe.gov.br.
+- [Transparencia](https://transparencia.alerj.rj.gov.br/](https://transparencia.alerj.rj.gov.br/) — Ferramenta ou serviço fornecido pelo domínio transparencia.alerj.rj.gov.br.
+- [Transparencia](http://transparencia.al.rn.leg.br/transparencia/](http://transparencia.al.rn.leg.br/transparencia/) — Ferramenta ou serviço fornecido pelo domínio transparencia.al.rn.leg.br.
+- [Www2](http://www2.al.rs.gov.br/transparenciaalrs/](http://www2.al.rs.gov.br/transparenciaalrs/) — Ferramenta ou serviço fornecido pelo domínio www2.al.rs.gov.br.
+- [Al](https://www.al.ro.leg.br/transparencia](https://www.al.ro.leg.br/transparencia) — Ferramenta ou serviço fornecido pelo domínio www.al.ro.leg.br.
+- [Transparencia](https://transparencia.al.rr.leg.br/](https://transparencia.al.rr.leg.br/) — Ferramenta ou serviço fornecido pelo domínio transparencia.al.rr.leg.br.
+- [Transparencia](https://transparencia.alesc.sc.gov.br/](https://transparencia.alesc.sc.gov.br/) — Ferramenta ou serviço fornecido pelo domínio transparencia.alesc.sc.gov.br.
+- [Al](https://www.al.sp.gov.br/transparencia/](https://www.al.sp.gov.br/transparencia/) — Ferramenta ou serviço fornecido pelo domínio www.al.sp.gov.br.
+- [Al](https://al.se.leg.br/transparencia/](https://al.se.leg.br/transparencia/) — Ferramenta ou serviço fornecido pelo domínio al.se.leg.br.
+- [Al](https://www.al.to.leg.br/transparencia](https://www.al.to.leg.br/transparencia) — Ferramenta ou serviço fornecido pelo domínio www.al.to.leg.br.
+- [Openwifi](https://openwifi.su](https://openwifi.su) — Ferramenta ou serviço fornecido pelo domínio openwifi.su.
+- [Mylnikov](https://www.mylnikov.org](https://www.mylnikov.org) — Ferramenta ou serviço fornecido pelo domínio www.mylnikov.org.
+- [Infrapedia](https://www.infrapedia.com](https://www.infrapedia.com) — Ferramenta ou serviço fornecido pelo domínio www.infrapedia.com.
+- [Rx](http://rx.linkfanel.net](http://rx.linkfanel.net) — Ferramenta ou serviço fornecido pelo domínio rx.linkfanel.net.
+- [Radio](http://radio.garden/visit/upata/CU3xZCrQ](http://radio.garden/visit/upata/CU3xZCrQ) — Ferramenta ou serviço fornecido pelo domínio radio.garden.
+- [Inteltechniques](https://inteltechniques.com/tools/Radio.html](https://inteltechniques.com/tools/Radio.html) — Ferramenta ou serviço fornecido pelo domínio inteltechniques.com.
+- [Llama](https://www.llama.com/](https://www.llama.com/) — Ferramenta ou serviço fornecido pelo domínio www.llama.com.
+- [Perplexity](https://www.perplexity.ai/](https://www.perplexity.ai/) — Ferramenta ou serviço fornecido pelo domínio www.perplexity.ai.
+- [Chatgpt](https://chatgpt.com/](https://chatgpt.com/) — Ferramenta ou serviço fornecido pelo domínio chatgpt.com.
+- [Chat](https://chat.deepseek.com/](https://chat.deepseek.com/) — Ferramenta ou serviço fornecido pelo domínio chat.deepseek.com.
+- [Llava-vl](https://llava-vl.github.io/](https://llava-vl.github.io/) — Ferramenta ou serviço fornecido pelo domínio llava-vl.github.io.
+- [Scribbr](https://www.scribbr.com/ai-detector/](https://www.scribbr.com/ai-detector/) — Ferramenta ou serviço fornecido pelo domínio www.scribbr.com.
+- [Contentatscale](https://contentatscale.ai/ai-content-detector/](https://contentatscale.ai/ai-content-detector/) — Ferramenta ou serviço fornecido pelo domínio contentatscale.ai.
+- [Copyleaks](https://copyleaks.com/ai-content-detector](https://copyleaks.com/ai-content-detector) — Ferramenta ou serviço fornecido pelo domínio copyleaks.com.
+- [Zerogpt](https://www.zerogpt.com/](https://www.zerogpt.com/) — Ferramenta ou serviço fornecido pelo domínio www.zerogpt.com.
+- [Detecting-ai](https://detecting-ai.com/](https://detecting-ai.com/) — Ferramenta ou serviço fornecido pelo domínio detecting-ai.com.
+- [Gptzero](https://gptzero.me/](https://gptzero.me/) — Ferramenta ou serviço fornecido pelo domínio gptzero.me.
+- [Copyleaks](https://copyleaks.com/) — Ferramenta ou serviço fornecido pelo domínio copyleaks.com.
+- [Undetectable](https://undetectable.ai/](https://undetectable.ai/) — Ferramenta ou serviço fornecido pelo domínio undetectable.ai.
+- [Julius](https://julius.ai/](https://julius.ai/) — Ferramenta ou serviço fornecido pelo domínio julius.ai.
+- [Consensus](https://consensus.app/](https://consensus.app/) — Ferramenta ou serviço fornecido pelo domínio consensus.app.
+- [Jenni](https://jenni.ai/](https://jenni.ai/) — Ferramenta ou serviço fornecido pelo domínio jenni.ai.
+- [Beta](https://beta.jasper.ai/](https://beta.jasper.ai/) — Ferramenta ou serviço fornecido pelo domínio beta.jasper.ai.
+- [Sudowrite](https://www.sudowrite.com/](https://www.sudowrite.com/) — Ferramenta ou serviço fornecido pelo domínio www.sudowrite.com.
+- [Elicit](https://elicit.com/](https://elicit.com/) — Ferramenta ou serviço fornecido pelo domínio elicit.com.
+- [Riverside](https://riverside.fm/transcription](https://riverside.fm/transcription) — Ferramenta ou serviço fornecido pelo domínio riverside.fm.
+- [Veed](https://www.veed.io/](https://www.veed.io/) — Ferramenta ou serviço fornecido pelo domínio www.veed.io.
+- [Midjourney](https://midjourney.com/](https://midjourney.com/) — Ferramenta ou serviço fornecido pelo domínio midjourney.com.
+- [Github](https://github.com/fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) — Ferramenta ou serviço fornecido pelo domínio github.com.
+- [Topai](https://topai.tools/](https://topai.tools/) — Ferramenta ou serviço fornecido pelo domínio topai.tools.
+- [Theresanaiforthat](https://theresanaiforthat.com/](https://theresanaiforthat.com/) — Ferramenta ou serviço fornecido pelo domínio theresanaiforthat.com.
+- [Edisontd](https://www.edisontd.nl/country-browser/](https://www.edisontd.nl/country-browser/) — Ferramenta ou serviço fornecido pelo domínio www.edisontd.nl.
+- [Wikiwand](https://www.wikiwand.com/en/Passport_stamp#/](https://www.wikiwand.com/en/Passport_stamp#/) — Ferramenta ou serviço fornecido pelo domínio www.wikiwand.com.
+- [Passportindex](https://www.passportindex.org/byColor.php](https://www.passportindex.org/byColor.php) — Ferramenta ou serviço fornecido pelo domínio www.passportindex.org.
+- [Addons](https://addons.mozilla.org/pt-BR/firefox/addon/privacy-badger17/](https://addons.mozilla.org/pt-BR/firefox/addon/privacy-badger17/) — Ferramenta ou serviço fornecido pelo domínio addons.mozilla.org.
+- [Addons](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) — Ferramenta ou serviço fornecido pelo domínio addons.mozilla.org.
+- [Addons](https://addons.mozilla.org/en-US/firefox/addon/noscript/](https://addons.mozilla.org/en-US/firefox/addon/noscript/) — Ferramenta ou serviço fornecido pelo domínio addons.mozilla.org.
+- [Addons](https://addons.mozilla.org/en-US/firefox/addon/location-guard/](https://addons.mozilla.org/en-US/firefox/addon/location-guard/) — Ferramenta ou serviço fornecido pelo domínio addons.mozilla.org.
+- [Addons](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) — Ferramenta ou serviço fornecido pelo domínio addons.mozilla.org.
+- [Addons](https://addons.mozilla.org/pt-BR/firefox/addon/zwcs-zero-width-steganography/](https://addons.mozilla.org/pt-BR/firefox/addon/zwcs-zero-width-steganography/) — Ferramenta ou serviço fornecido pelo domínio addons.mozilla.org.
+- [Addons](https://addons.mozilla.org/pt-BR/firefox/addon/fireshot/](https://addons.mozilla.org/pt-BR/firefox/addon/fireshot/) — Ferramenta ou serviço fornecido pelo domínio addons.mozilla.org.
+- [Addons](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) — Ferramenta ou serviço fornecido pelo domínio addons.mozilla.org.
+- [Addons](https://addons.mozilla.org/pt-BR/firefox/addon/onetab/](https://addons.mozilla.org/pt-BR/firefox/addon/onetab/) — Ferramenta ou serviço fornecido pelo domínio addons.mozilla.org.

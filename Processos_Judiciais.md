@@ -1,108 +1,108 @@
 # Processos Judiciais
 
-- - [https://justgetmydata.com](https://justgetmydata.com)
-- - [https://www.tst.jus.br/certidao1](https://www.tst.jus.br/certidao1)
-- - [http://antecedentes.sejusp.ms.gov.br/pages/MasterPages/IUPrincipal.aspx#](http://antecedentes.sejusp.ms.gov.br/pages/MasterPages/IUPrincipal.aspx#)
-- - [https://certidoes.stf.jus.br/escolha-de-modelo](https://certidoes.stf.jus.br/escolha-de-modelo)
-- - [https://www.stj.jus.br/sites/portalp/Processos/Certidoes](https://www.stj.jus.br/sites/portalp/Processos/Certidoes)
-- - [https://www.stm.jus.br/servicos-stm/certidao-negativa/emitir-certidao-negativa](https://www.stm.jus.br/servicos-stm/certidao-negativa/emitir-certidao-negativa)
-- - [https://sistemas.trf1.jus.br/certidao/#/solicitacao](https://sistemas.trf1.jus.br/certidao/#/solicitacao)
-- - [http://portal.trf2.jus.br/certidao/emissao_cert.asp](http://portal.trf2.jus.br/certidao/emissao_cert.asp)
-- - [http://web.trf3.jus.br/certidao/Certidao/Solicitar](http://web.trf3.jus.br/certidao/Certidao/Solicitar)
-- - [https://www2.trf4.jus.br/trf4/processos/certidao/index.php](https://www2.trf4.jus.br/trf4/processos/certidao/index.php)
-- - [https://www4.trf5.jus.br/certidoes/](https://www4.trf5.jus.br/certidoes/)
-- - [https://esaj.tjac.jus.br/esaj/portal.do?servico=810000](https://esaj.tjac.jus.br/esaj/portal.do?servico=810000)
-- - [https://www2.tjal.jus.br/esaj/portal.do?servico=810100](https://www2.tjal.jus.br/esaj/portal.do?servico=810100)
-- - [https://consultasaj.tjam.jus.br/esaj/portal.do?servico=810100](https://consultasaj.tjam.jus.br/esaj/portal.do?servico=810100)
-- - [http://tucujuris.tjap.jus.br/tucujuris/pages/certidao-publica/certidao-publica.html](http://tucujuris.tjap.jus.br/tucujuris/pages/certidao-publica/certidao-publica.html)
-- - [http://www5.tjba.jus.br/portal/certidoes/](http://www5.tjba.jus.br/portal/certidoes/)
-- - [https://sirece.tjce.jus.br/sirece-web/nova/solicitacao.jsf](https://sirece.tjce.jus.br/sirece-web/nova/solicitacao.jsf)
-- - [https://cnc.tjdft.jus.br/solicitacao-externa](https://cnc.tjdft.jus.br/solicitacao-externa)
-- - [https://sistemas.tjes.jus.br/certidaonegativa/sistemas/certidao/CERTIDAOPESQUISA.cfm](https://sistemas.tjes.jus.br/certidaonegativa/sistemas/certidao/CERTIDAOPESQUISA.cfm)
-- - [https://www.tjgo.jus.br/index.php/processos/emissao-de-certidoes](https://www.tjgo.jus.br/index.php/processos/emissao-de-certidoes)
-- - [https://jurisconsult.tjma.jus.br/#/home](https://jurisconsult.tjma.jus.br/#/home)
-- - [https://sec.tjmt.jus.br/emitir-certidao-de-primeiro-grau?opcaoCertidao=1](https://sec.tjmt.jus.br/emitir-certidao-de-primeiro-grau?opcaoCertidao=1)
-- - [https://esaj.tjms.jus.br/esaj/portal.do?servico=810000](https://esaj.tjms.jus.br/esaj/portal.do?servico=810000)
-- - [http://rupe.tjmg.jus.br/rupe/justica/publico/certidoes/criarSolicitacaoCertidao.rupe?solicitacaoPublica=true](http://rupe.tjmg.jus.br/rupe/justica/publico/certidoes/criarSolicitacaoCertidao.rupe?solicitacaoPublica=true)
-- - [https://consultas.tjpa.jus.br/certidao/pages/pesquisaGeralCentralCertidao.action](https://consultas.tjpa.jus.br/certidao/pages/pesquisaGeralCentralCertidao.action)
-- - [https://consultas.tjpa.jus.br/certidao/pages/pesquisaGeralCentralCertidao.action](https://consultas.tjpa.jus.br/certidao/pages/pesquisaGeralCentralCertidao.action)
-- - [https://www.tjpr.jus.br/protocolo-admin](https://www.tjpr.jus.br/protocolo-admin)
-- - [https://www.tjpe.jus.br/web/processo-judicial-eletronico/pje-em-pernambuco/certidao](https://www.tjpe.jus.br/web/processo-judicial-eletronico/pje-em-pernambuco/certidao)
-- - [http://www.tjpi.jus.br/e-tjpi/home/certidao](http://www.tjpi.jus.br/e-tjpi/home/certidao)
-- - [http://www4.tjrj.jus.br/certidao2grau/EmitirCertidaoWeb.aspx](http://www4.tjrj.jus.br/certidao2grau/EmitirCertidaoWeb.aspx)
-- - [https://pje.tjrn.jus.br/certidaoPjeWeb/](https://pje.tjrn.jus.br/certidaoPjeWeb/)
-- - [https://www.tjrs.jus.br/novo/processos-e-servicos/servicos-processuais/emissao-de-antecedentes-e-certidoes/](https://www.tjrs.jus.br/novo/processos-e-servicos/servicos-processuais/emissao-de-antecedentes-e-certidoes/)
-- - [https://webapp.tjro.jus.br/certidaoonline/pages/cnpg.xhtml](https://webapp.tjro.jus.br/certidaoonline/pages/cnpg.xhtml)
-- - [http://certidao.tjrr.jus.br/certidao/pages/certidao/certidao-negativa](http://certidao.tjrr.jus.br/certidao/pages/certidao/certidao-negativa)
-- - [https://esaj.tjsc.jus.br/sco/abrirCadastro.do](https://esaj.tjsc.jus.br/sco/abrirCadastro.do)
-- - [https://esaj.tjsp.jus.br/esaj/portal.do?servico=810000](https://esaj.tjsp.jus.br/esaj/portal.do?servico=810000)
-- - [https://www.tjse.jus.br/portal/servicos/judiciais/certidao-online/solicitacao-de-certidao-negativa](https://www.tjse.jus.br/portal/servicos/judiciais/certidao-online/solicitacao-de-certidao-negativa)
-- - [http://www.tjto.jus.br/index.php/certidoes-3](http://www.tjto.jus.br/index.php/certidoes-3)
-- - [https://www.tse.jus.br/eleitor/certidoes](https://www.tse.jus.br/eleitor/certidoes)
-- - [https://filia-consulta.tse.jus.br/#/principal/menu](https://filia-consulta.tse.jus.br/#/principal/menu)
-- - [https://divulgacandcontas.tse.jus.br/divulga/#/](https://divulgacandcontas.tse.jus.br/divulga/#/)
-- - [https://www.jusbrasil.com.br/consulta-processual/](https://www.jusbrasil.com.br/consulta-processual/)
-- - [https://portalbnmp.cnj.jus.br/#/pesquisa-peca](https://portalbnmp.cnj.jus.br/#/pesquisa-peca)
-- - [https://portal.stf.jus.br/](https://portal.stf.jus.br/)
-- - [https://processo.stj.jus.br/processor/pesquisa/?aplicacao=processos.ea](https://processo.stj.jus.br/processor/pesquisa/?aplicacao=processos.ea)
-- - [https://processos.stm.jus.br/	](https://processos.stm.jus.br/	)
-- - [https://www.tst.jus.br/processos-do-tst](https://www.tst.jus.br/processos-do-tst)
-- - [https://consultaunificadapje.tse.jus.br/](https://consultaunificadapje.tse.jus.br/)
-- - [https://processual.trf1.jus.br/consultaProcessual/nomeParte.php?secao=TRF1	](https://processual.trf1.jus.br/consultaProcessual/nomeParte.php?secao=TRF1	)
-- - [https://portal.trf2.jus.br/portal/consulta/cons_procs.asp](https://portal.trf2.jus.br/portal/consulta/cons_procs.asp)
-- - [https://web.trf3.jus.br/consultas/Internet/ConsultaProcessual](https://web.trf3.jus.br/consultas/Internet/ConsultaProcessual)
-- - [https://www.trf4.jus.br/trf4/controlador.php?acao=principal&](https://www.trf4.jus.br/trf4/controlador.php?acao=principal&)
-- - [https://pje.trf5.jus.br/pje/ConsultaPublica/listView.seam](https://pje.trf5.jus.br/pje/ConsultaPublica/listView.seam)
-- - [https://esaj.tjac.jus.br/cpopg/open.do](https://esaj.tjac.jus.br/cpopg/open.do)
-- - [https://www2.tjal.jus.br/esaj/portal.do?servico=190090](https://www2.tjal.jus.br/esaj/portal.do?servico=190090)
-- - [https://consultasaj.tjam.jus.br](https://consultasaj.tjam.jus.br)
-- - [https://tucujuris.tjap.jus.br/pages/consultar-processo/consultar-processo.html](https://tucujuris.tjap.jus.br/pages/consultar-processo/consultar-processo.html)
-- - [http://www2.tjba.jus.br/consultaprocessual/index.wsp](http://www2.tjba.jus.br/consultaprocessual/index.wsp)
-- - [https://esaj.tjce.jus.br/cpopg/open.do](https://esaj.tjce.jus.br/cpopg/open.do)
-- - [https://www.tjdft.jus.br/pje](https://www.tjdft.jus.br/pje)
-- - [http://aplicativos.tjes.jus.br/sistemaspublicos/consulta_12_instancias/consulta_proces.cfm](http://aplicativos.tjes.jus.br/sistemaspublicos/consulta_12_instancias/consulta_proces.cfm)
-- - [https://www.tjgo.jus.br/index.php/processos/consulta-processual](https://www.tjgo.jus.br/index.php/processos/consulta-processual)
-- - [https://jurisconsult.tjma.jus.br/#/home](https://jurisconsult.tjma.jus.br/#/home)
-- - [https://www4.tjmg.jus.br/juridico/sf/index_nome.jsp](https://www4.tjmg.jus.br/juridico/sf/index_nome.jsp)
-- - [https://esaj.tjms.jus.br/cpopg5/open.do](https://esaj.tjms.jus.br/cpopg5/open.do)
-- - [https://www.tjmt.jus.br/ConsultaProcessual](https://www.tjmt.jus.br/ConsultaProcessual)
-- - [https://consultas.tjpa.jus.br/consultaprocessoportal/consulta/principal#](https://consultas.tjpa.jus.br/consultaprocessoportal/consulta/principal#)
-- - [https://pje.tjpb.jus.br/pje/ConsultaPublica/listView.seam](https://pje.tjpb.jus.br/pje/ConsultaPublica/listView.seam)
-- - [https://srv01.tjpe.jus.br/consultaprocessualunificada/](https://srv01.tjpe.jus.br/consultaprocessualunificada/)
-- - [http://www.tjpi.jus.br/themisconsulta/](http://www.tjpi.jus.br/themisconsulta/)
-- - [https://projudi.tjpr.jus.br/projudi_consulta/](https://projudi.tjpr.jus.br/projudi_consulta/)
-- - [http://www4.tjrj.jus.br/ConsultaUnificada/consulta.do#tabs-numero-indice0](http://www4.tjrj.jus.br/ConsultaUnificada/consulta.do#tabs-numero-indice0)
-- - [http://esaj.tjrn.jus.br/esaj/portal.do?servico=190100](http://esaj.tjrn.jus.br/esaj/portal.do?servico=190100)
-- - [https://www.tjrs.jus.br/site_php/consulta/index.php](https://www.tjrs.jus.br/site_php/consulta/index.php)
-- - [https://www.tjro.jus.br/appg/pages/index.xhtml](https://www.tjro.jus.br/appg/pages/index.xhtml)
-- - [https://projudi.tjrr.jus.br/projudi/processo/consultaPublica.do?actionType=iniciar](https://projudi.tjrr.jus.br/projudi/processo/consultaPublica.do?actionType=iniciar)
-- - [https://esaj.tjsc.jus.br/esaj/portal.do?servico=190090](https://esaj.tjsc.jus.br/esaj/portal.do?servico=190090)
-- - [https://esaj.tjsp.jus.br/esaj/portal.do?servico=190090](https://esaj.tjsp.jus.br/esaj/portal.do?servico=190090)
-- - [https://www.tjse.jus.br/portal/consultas/consulta-processual](https://www.tjse.jus.br/portal/consultas/consulta-processual)
-- - [https://www.tjto.jus.br/servicos](https://www.tjto.jus.br/servicos)
-- - [https://portal.stf.jus.br/transparencia/](https://portal.stf.jus.br/transparencia/)
-- - [https://transparencia.stj.jus.br/](https://transparencia.stj.jus.br/)
-- - [https://portal.trf1.jus.br/portaltrf1/transparencia/transparencia.htm](https://portal.trf1.jus.br/portaltrf1/transparencia/transparencia.htm)
-- - [https://www10.trf2.jus.br/ai/](https://www10.trf2.jus.br/ai/)
-- - [https://www.trf3.jus.br/transparencia/](https://www.trf3.jus.br/transparencia/)
-- - [https://www.trf4.jus.br/trf4/controlador.php?acao=pagina_visualizar&id_pagina=2037](https://www.trf4.jus.br/trf4/controlador.php?acao=pagina_visualizar&id_pagina=2037)
-- - [https://www.trf5.jus.br/index.php/portal-da-transparencia](https://www.trf5.jus.br/index.php/portal-da-transparencia)
-- - [https://www.tjac.jus.br/portal-da-transparencia/](https://www.tjac.jus.br/portal-da-transparencia/)
-- - [https://www.tjal.jus.br/?pag=TransparenciaTJAL/Transparencia](https://www.tjal.jus.br/?pag=TransparenciaTJAL/Transparencia)
-- - [https://www.tjap.jus.br/portal/apresentacao.html](https://www.tjap.jus.br/portal/apresentacao.html)
-- - [https://www.tjam.jus.br/index.php/transparencia](https://www.tjam.jus.br/index.php/transparencia)
-- - [http://www5.tjba.jus.br/portal/transparencia-2/](http://www5.tjba.jus.br/portal/transparencia-2/)
-- - [https://www.tjce.jus.br/transparencia/](https://www.tjce.jus.br/transparencia/)
-- - [https://www.tjdft.jus.br/transparencia](https://www.tjdft.jus.br/transparencia)
-- - [http://www.tjes.jus.br/portal-da-transparencia/](http://www.tjes.jus.br/portal-da-transparencia/)
-- - [https://www.tjma.jus.br/financas/index.php?acao_portal=inicial_040101](https://www.tjma.jus.br/financas/index.php?acao_portal=inicial_040101)
-- - [http://www.tjmt.jus.br/AcessoInformacao/C/26364/#.YMiwTvlKiUk](http://www.tjmt.jus.br/AcessoInformacao/C/26364/#.YMiwTvlKiUk)
-- - [https://www5.tjms.jus.br/transparencia/](https://www5.tjms.jus.br/transparencia/)
-- - [https://www.tjmg.jus.br/portal-tjmg/transparencia/](https://www.tjmg.jus.br/portal-tjmg/transparencia/)
-- - [http://www.tjpa.jus.br/PortalExterno/transparencia/](http://www.tjpa.jus.br/PortalExterno/transparencia/)
-- - [https://www.tjpb.jus.br/transparencia](https://www.tjpb.jus.br/transparencia)
-- - [https://www.tjpr.jus.br/gestao-de-pessoas](https://www.tjpr.jus.br/gestao-de-pessoas)
-- - [https://www.tjpe.jus.br/web/transparencia](https://www.tjpe.jus.br/web/transparencia)
-- - [http://transparencia.tjpi.jus.br/](http://transparencia.tjpi.jus.br/)
-- - [http://www.tjrj.jus.br/web/guest/transparencia/apresentacao](http://www.tjrj.jus.br/web/guest/transparencia/apresentacao)
-- - [https://transparencia.tjrs.jus.br/transparencia_tjrs/index.php](https://transparencia.tjrs.jus.br/transparencia_tjrs/index.php)
+- [Justgetmydata](https://justgetmydata.com](https://justgetmydata.com) — Ferramenta ou serviço fornecido pelo domínio justgetmydata.com.
+- [Tst](https://www.tst.jus.br/certidao1](https://www.tst.jus.br/certidao1) — Ferramenta ou serviço fornecido pelo domínio www.tst.jus.br.
+- [Antecedentes](http://antecedentes.sejusp.ms.gov.br/pages/MasterPages/IUPrincipal.aspx#](http://antecedentes.sejusp.ms.gov.br/pages/MasterPages/IUPrincipal.aspx#) — Ferramenta ou serviço fornecido pelo domínio antecedentes.sejusp.ms.gov.br.
+- [Certidoes](https://certidoes.stf.jus.br/escolha-de-modelo](https://certidoes.stf.jus.br/escolha-de-modelo) — Ferramenta ou serviço fornecido pelo domínio certidoes.stf.jus.br.
+- [Stj](https://www.stj.jus.br/sites/portalp/Processos/Certidoes](https://www.stj.jus.br/sites/portalp/Processos/Certidoes) — Ferramenta ou serviço fornecido pelo domínio www.stj.jus.br.
+- [Stm](https://www.stm.jus.br/servicos-stm/certidao-negativa/emitir-certidao-negativa](https://www.stm.jus.br/servicos-stm/certidao-negativa/emitir-certidao-negativa) — Ferramenta ou serviço fornecido pelo domínio www.stm.jus.br.
+- [Sistemas](https://sistemas.trf1.jus.br/certidao/#/solicitacao](https://sistemas.trf1.jus.br/certidao/#/solicitacao) — Ferramenta ou serviço fornecido pelo domínio sistemas.trf1.jus.br.
+- [Portal](http://portal.trf2.jus.br/certidao/emissao_cert.asp](http://portal.trf2.jus.br/certidao/emissao_cert.asp) — Ferramenta ou serviço fornecido pelo domínio portal.trf2.jus.br.
+- [Web](http://web.trf3.jus.br/certidao/Certidao/Solicitar](http://web.trf3.jus.br/certidao/Certidao/Solicitar) — Ferramenta ou serviço fornecido pelo domínio web.trf3.jus.br.
+- [Www2](https://www2.trf4.jus.br/trf4/processos/certidao/index.php](https://www2.trf4.jus.br/trf4/processos/certidao/index.php) — Ferramenta ou serviço fornecido pelo domínio www2.trf4.jus.br.
+- [Www4](https://www4.trf5.jus.br/certidoes/](https://www4.trf5.jus.br/certidoes/) — Ferramenta ou serviço fornecido pelo domínio www4.trf5.jus.br.
+- [Esaj](https://esaj.tjac.jus.br/esaj/portal.do?servico=810000](https://esaj.tjac.jus.br/esaj/portal.do?servico=810000) — Ferramenta ou serviço fornecido pelo domínio esaj.tjac.jus.br.
+- [Www2](https://www2.tjal.jus.br/esaj/portal.do?servico=810100](https://www2.tjal.jus.br/esaj/portal.do?servico=810100) — Ferramenta ou serviço fornecido pelo domínio www2.tjal.jus.br.
+- [Consultasaj](https://consultasaj.tjam.jus.br/esaj/portal.do?servico=810100](https://consultasaj.tjam.jus.br/esaj/portal.do?servico=810100) — Ferramenta ou serviço fornecido pelo domínio consultasaj.tjam.jus.br.
+- [Tucujuris](http://tucujuris.tjap.jus.br/tucujuris/pages/certidao-publica/certidao-publica.html](http://tucujuris.tjap.jus.br/tucujuris/pages/certidao-publica/certidao-publica.html) — Ferramenta ou serviço fornecido pelo domínio tucujuris.tjap.jus.br.
+- [Www5](http://www5.tjba.jus.br/portal/certidoes/](http://www5.tjba.jus.br/portal/certidoes/) — Ferramenta ou serviço fornecido pelo domínio www5.tjba.jus.br.
+- [Sirece](https://sirece.tjce.jus.br/sirece-web/nova/solicitacao.jsf](https://sirece.tjce.jus.br/sirece-web/nova/solicitacao.jsf) — Ferramenta ou serviço fornecido pelo domínio sirece.tjce.jus.br.
+- [Cnc](https://cnc.tjdft.jus.br/solicitacao-externa](https://cnc.tjdft.jus.br/solicitacao-externa) — Ferramenta ou serviço fornecido pelo domínio cnc.tjdft.jus.br.
+- [Sistemas](https://sistemas.tjes.jus.br/certidaonegativa/sistemas/certidao/CERTIDAOPESQUISA.cfm](https://sistemas.tjes.jus.br/certidaonegativa/sistemas/certidao/CERTIDAOPESQUISA.cfm) — Ferramenta ou serviço fornecido pelo domínio sistemas.tjes.jus.br.
+- [Tjgo](https://www.tjgo.jus.br/index.php/processos/emissao-de-certidoes](https://www.tjgo.jus.br/index.php/processos/emissao-de-certidoes) — Ferramenta ou serviço fornecido pelo domínio www.tjgo.jus.br.
+- [Jurisconsult](https://jurisconsult.tjma.jus.br/#/home](https://jurisconsult.tjma.jus.br/#/home) — Ferramenta ou serviço fornecido pelo domínio jurisconsult.tjma.jus.br.
+- [Sec](https://sec.tjmt.jus.br/emitir-certidao-de-primeiro-grau?opcaoCertidao=1](https://sec.tjmt.jus.br/emitir-certidao-de-primeiro-grau?opcaoCertidao=1) — Ferramenta ou serviço fornecido pelo domínio sec.tjmt.jus.br.
+- [Esaj](https://esaj.tjms.jus.br/esaj/portal.do?servico=810000](https://esaj.tjms.jus.br/esaj/portal.do?servico=810000) — Ferramenta ou serviço fornecido pelo domínio esaj.tjms.jus.br.
+- [Rupe](http://rupe.tjmg.jus.br/rupe/justica/publico/certidoes/criarSolicitacaoCertidao.rupe?solicitacaoPublica=true](http://rupe.tjmg.jus.br/rupe/justica/publico/certidoes/criarSolicitacaoCertidao.rupe?solicitacaoPublica=true) — Ferramenta ou serviço fornecido pelo domínio rupe.tjmg.jus.br.
+- [Consultas](https://consultas.tjpa.jus.br/certidao/pages/pesquisaGeralCentralCertidao.action](https://consultas.tjpa.jus.br/certidao/pages/pesquisaGeralCentralCertidao.action) — Ferramenta ou serviço fornecido pelo domínio consultas.tjpa.jus.br.
+- [Consultas](https://consultas.tjpa.jus.br/certidao/pages/pesquisaGeralCentralCertidao.action](https://consultas.tjpa.jus.br/certidao/pages/pesquisaGeralCentralCertidao.action) — Ferramenta ou serviço fornecido pelo domínio consultas.tjpa.jus.br.
+- [Tjpr](https://www.tjpr.jus.br/protocolo-admin](https://www.tjpr.jus.br/protocolo-admin) — Ferramenta ou serviço fornecido pelo domínio www.tjpr.jus.br.
+- [Tjpe](https://www.tjpe.jus.br/web/processo-judicial-eletronico/pje-em-pernambuco/certidao](https://www.tjpe.jus.br/web/processo-judicial-eletronico/pje-em-pernambuco/certidao) — Ferramenta ou serviço fornecido pelo domínio www.tjpe.jus.br.
+- [Tjpi](http://www.tjpi.jus.br/e-tjpi/home/certidao](http://www.tjpi.jus.br/e-tjpi/home/certidao) — Ferramenta ou serviço fornecido pelo domínio www.tjpi.jus.br.
+- [Www4](http://www4.tjrj.jus.br/certidao2grau/EmitirCertidaoWeb.aspx](http://www4.tjrj.jus.br/certidao2grau/EmitirCertidaoWeb.aspx) — Ferramenta ou serviço fornecido pelo domínio www4.tjrj.jus.br.
+- [Pje](https://pje.tjrn.jus.br/certidaoPjeWeb/](https://pje.tjrn.jus.br/certidaoPjeWeb/) — Ferramenta ou serviço fornecido pelo domínio pje.tjrn.jus.br.
+- [Tjrs](https://www.tjrs.jus.br/novo/processos-e-servicos/servicos-processuais/emissao-de-antecedentes-e-certidoes/](https://www.tjrs.jus.br/novo/processos-e-servicos/servicos-processuais/emissao-de-antecedentes-e-certidoes/) — Ferramenta ou serviço fornecido pelo domínio www.tjrs.jus.br.
+- [Webapp](https://webapp.tjro.jus.br/certidaoonline/pages/cnpg.xhtml](https://webapp.tjro.jus.br/certidaoonline/pages/cnpg.xhtml) — Ferramenta ou serviço fornecido pelo domínio webapp.tjro.jus.br.
+- [Certidao](http://certidao.tjrr.jus.br/certidao/pages/certidao/certidao-negativa](http://certidao.tjrr.jus.br/certidao/pages/certidao/certidao-negativa) — Ferramenta ou serviço fornecido pelo domínio certidao.tjrr.jus.br.
+- [Esaj](https://esaj.tjsc.jus.br/sco/abrirCadastro.do](https://esaj.tjsc.jus.br/sco/abrirCadastro.do) — Ferramenta ou serviço fornecido pelo domínio esaj.tjsc.jus.br.
+- [Esaj](https://esaj.tjsp.jus.br/esaj/portal.do?servico=810000](https://esaj.tjsp.jus.br/esaj/portal.do?servico=810000) — Ferramenta ou serviço fornecido pelo domínio esaj.tjsp.jus.br.
+- [Tjse](https://www.tjse.jus.br/portal/servicos/judiciais/certidao-online/solicitacao-de-certidao-negativa](https://www.tjse.jus.br/portal/servicos/judiciais/certidao-online/solicitacao-de-certidao-negativa) — Ferramenta ou serviço fornecido pelo domínio www.tjse.jus.br.
+- [Tjto](http://www.tjto.jus.br/index.php/certidoes-3](http://www.tjto.jus.br/index.php/certidoes-3) — Ferramenta ou serviço fornecido pelo domínio www.tjto.jus.br.
+- [Tse](https://www.tse.jus.br/eleitor/certidoes](https://www.tse.jus.br/eleitor/certidoes) — Ferramenta ou serviço fornecido pelo domínio www.tse.jus.br.
+- [Filia-consulta](https://filia-consulta.tse.jus.br/#/principal/menu](https://filia-consulta.tse.jus.br/#/principal/menu) — Ferramenta ou serviço fornecido pelo domínio filia-consulta.tse.jus.br.
+- [Divulgacandcontas](https://divulgacandcontas.tse.jus.br/divulga/#/](https://divulgacandcontas.tse.jus.br/divulga/#/) — Ferramenta ou serviço fornecido pelo domínio divulgacandcontas.tse.jus.br.
+- [Jusbrasil](https://www.jusbrasil.com.br/consulta-processual/](https://www.jusbrasil.com.br/consulta-processual/) — Ferramenta ou serviço fornecido pelo domínio www.jusbrasil.com.br.
+- [Portalbnmp](https://portalbnmp.cnj.jus.br/#/pesquisa-peca](https://portalbnmp.cnj.jus.br/#/pesquisa-peca) — Ferramenta ou serviço fornecido pelo domínio portalbnmp.cnj.jus.br.
+- [Portal](https://portal.stf.jus.br/](https://portal.stf.jus.br/) — Ferramenta ou serviço fornecido pelo domínio portal.stf.jus.br.
+- [Processo](https://processo.stj.jus.br/processor/pesquisa/?aplicacao=processos.ea](https://processo.stj.jus.br/processor/pesquisa/?aplicacao=processos.ea) — Ferramenta ou serviço fornecido pelo domínio processo.stj.jus.br.
+- [Processos](https://processos.stm.jus.br/) — Ferramenta ou serviço fornecido pelo domínio processos.stm.jus.br.
+- [Tst](https://www.tst.jus.br/processos-do-tst](https://www.tst.jus.br/processos-do-tst) — Ferramenta ou serviço fornecido pelo domínio www.tst.jus.br.
+- [Consultaunificadapje](https://consultaunificadapje.tse.jus.br/](https://consultaunificadapje.tse.jus.br/) — Ferramenta ou serviço fornecido pelo domínio consultaunificadapje.tse.jus.br.
+- [Processual](https://processual.trf1.jus.br/consultaProcessual/nomeParte.php?secao=TRF1) — Ferramenta ou serviço fornecido pelo domínio processual.trf1.jus.br.
+- [Portal](https://portal.trf2.jus.br/portal/consulta/cons_procs.asp](https://portal.trf2.jus.br/portal/consulta/cons_procs.asp) — Ferramenta ou serviço fornecido pelo domínio portal.trf2.jus.br.
+- [Web](https://web.trf3.jus.br/consultas/Internet/ConsultaProcessual](https://web.trf3.jus.br/consultas/Internet/ConsultaProcessual) — Ferramenta ou serviço fornecido pelo domínio web.trf3.jus.br.
+- [Trf4](https://www.trf4.jus.br/trf4/controlador.php?acao=principal&](https://www.trf4.jus.br/trf4/controlador.php?acao=principal&) — Ferramenta ou serviço fornecido pelo domínio www.trf4.jus.br.
+- [Pje](https://pje.trf5.jus.br/pje/ConsultaPublica/listView.seam](https://pje.trf5.jus.br/pje/ConsultaPublica/listView.seam) — Ferramenta ou serviço fornecido pelo domínio pje.trf5.jus.br.
+- [Esaj](https://esaj.tjac.jus.br/cpopg/open.do](https://esaj.tjac.jus.br/cpopg/open.do) — Ferramenta ou serviço fornecido pelo domínio esaj.tjac.jus.br.
+- [Www2](https://www2.tjal.jus.br/esaj/portal.do?servico=190090](https://www2.tjal.jus.br/esaj/portal.do?servico=190090) — Ferramenta ou serviço fornecido pelo domínio www2.tjal.jus.br.
+- [Consultasaj](https://consultasaj.tjam.jus.br](https://consultasaj.tjam.jus.br) — Ferramenta ou serviço fornecido pelo domínio consultasaj.tjam.jus.br.
+- [Tucujuris](https://tucujuris.tjap.jus.br/pages/consultar-processo/consultar-processo.html](https://tucujuris.tjap.jus.br/pages/consultar-processo/consultar-processo.html) — Ferramenta ou serviço fornecido pelo domínio tucujuris.tjap.jus.br.
+- [Www2](http://www2.tjba.jus.br/consultaprocessual/index.wsp](http://www2.tjba.jus.br/consultaprocessual/index.wsp) — Ferramenta ou serviço fornecido pelo domínio www2.tjba.jus.br.
+- [Esaj](https://esaj.tjce.jus.br/cpopg/open.do](https://esaj.tjce.jus.br/cpopg/open.do) — Ferramenta ou serviço fornecido pelo domínio esaj.tjce.jus.br.
+- [Tjdft](https://www.tjdft.jus.br/pje](https://www.tjdft.jus.br/pje) — Ferramenta ou serviço fornecido pelo domínio www.tjdft.jus.br.
+- [Aplicativos](http://aplicativos.tjes.jus.br/sistemaspublicos/consulta_12_instancias/consulta_proces.cfm](http://aplicativos.tjes.jus.br/sistemaspublicos/consulta_12_instancias/consulta_proces.cfm) — Ferramenta ou serviço fornecido pelo domínio aplicativos.tjes.jus.br.
+- [Tjgo](https://www.tjgo.jus.br/index.php/processos/consulta-processual](https://www.tjgo.jus.br/index.php/processos/consulta-processual) — Ferramenta ou serviço fornecido pelo domínio www.tjgo.jus.br.
+- [Jurisconsult](https://jurisconsult.tjma.jus.br/#/home](https://jurisconsult.tjma.jus.br/#/home) — Ferramenta ou serviço fornecido pelo domínio jurisconsult.tjma.jus.br.
+- [Www4](https://www4.tjmg.jus.br/juridico/sf/index_nome.jsp](https://www4.tjmg.jus.br/juridico/sf/index_nome.jsp) — Ferramenta ou serviço fornecido pelo domínio www4.tjmg.jus.br.
+- [Esaj](https://esaj.tjms.jus.br/cpopg5/open.do](https://esaj.tjms.jus.br/cpopg5/open.do) — Ferramenta ou serviço fornecido pelo domínio esaj.tjms.jus.br.
+- [Tjmt](https://www.tjmt.jus.br/ConsultaProcessual](https://www.tjmt.jus.br/ConsultaProcessual) — Ferramenta ou serviço fornecido pelo domínio www.tjmt.jus.br.
+- [Consultas](https://consultas.tjpa.jus.br/consultaprocessoportal/consulta/principal#](https://consultas.tjpa.jus.br/consultaprocessoportal/consulta/principal#) — Ferramenta ou serviço fornecido pelo domínio consultas.tjpa.jus.br.
+- [Pje](https://pje.tjpb.jus.br/pje/ConsultaPublica/listView.seam](https://pje.tjpb.jus.br/pje/ConsultaPublica/listView.seam) — Ferramenta ou serviço fornecido pelo domínio pje.tjpb.jus.br.
+- [Srv01](https://srv01.tjpe.jus.br/consultaprocessualunificada/](https://srv01.tjpe.jus.br/consultaprocessualunificada/) — Ferramenta ou serviço fornecido pelo domínio srv01.tjpe.jus.br.
+- [Tjpi](http://www.tjpi.jus.br/themisconsulta/](http://www.tjpi.jus.br/themisconsulta/) — Ferramenta ou serviço fornecido pelo domínio www.tjpi.jus.br.
+- [Projudi](https://projudi.tjpr.jus.br/projudi_consulta/](https://projudi.tjpr.jus.br/projudi_consulta/) — Ferramenta ou serviço fornecido pelo domínio projudi.tjpr.jus.br.
+- [Www4](http://www4.tjrj.jus.br/ConsultaUnificada/consulta.do#tabs-numero-indice0](http://www4.tjrj.jus.br/ConsultaUnificada/consulta.do#tabs-numero-indice0) — Ferramenta ou serviço fornecido pelo domínio www4.tjrj.jus.br.
+- [Esaj](http://esaj.tjrn.jus.br/esaj/portal.do?servico=190100](http://esaj.tjrn.jus.br/esaj/portal.do?servico=190100) — Ferramenta ou serviço fornecido pelo domínio esaj.tjrn.jus.br.
+- [Tjrs](https://www.tjrs.jus.br/site_php/consulta/index.php](https://www.tjrs.jus.br/site_php/consulta/index.php) — Ferramenta ou serviço fornecido pelo domínio www.tjrs.jus.br.
+- [Tjro](https://www.tjro.jus.br/appg/pages/index.xhtml](https://www.tjro.jus.br/appg/pages/index.xhtml) — Ferramenta ou serviço fornecido pelo domínio www.tjro.jus.br.
+- [Projudi](https://projudi.tjrr.jus.br/projudi/processo/consultaPublica.do?actionType=iniciar](https://projudi.tjrr.jus.br/projudi/processo/consultaPublica.do?actionType=iniciar) — Ferramenta ou serviço fornecido pelo domínio projudi.tjrr.jus.br.
+- [Esaj](https://esaj.tjsc.jus.br/esaj/portal.do?servico=190090](https://esaj.tjsc.jus.br/esaj/portal.do?servico=190090) — Ferramenta ou serviço fornecido pelo domínio esaj.tjsc.jus.br.
+- [Esaj](https://esaj.tjsp.jus.br/esaj/portal.do?servico=190090](https://esaj.tjsp.jus.br/esaj/portal.do?servico=190090) — Ferramenta ou serviço fornecido pelo domínio esaj.tjsp.jus.br.
+- [Tjse](https://www.tjse.jus.br/portal/consultas/consulta-processual](https://www.tjse.jus.br/portal/consultas/consulta-processual) — Ferramenta ou serviço fornecido pelo domínio www.tjse.jus.br.
+- [Tjto](https://www.tjto.jus.br/servicos](https://www.tjto.jus.br/servicos) — Ferramenta ou serviço fornecido pelo domínio www.tjto.jus.br.
+- [Portal](https://portal.stf.jus.br/transparencia/](https://portal.stf.jus.br/transparencia/) — Ferramenta ou serviço fornecido pelo domínio portal.stf.jus.br.
+- [Transparencia](https://transparencia.stj.jus.br/](https://transparencia.stj.jus.br/) — Ferramenta ou serviço fornecido pelo domínio transparencia.stj.jus.br.
+- [Portal](https://portal.trf1.jus.br/portaltrf1/transparencia/transparencia.htm](https://portal.trf1.jus.br/portaltrf1/transparencia/transparencia.htm) — Ferramenta ou serviço fornecido pelo domínio portal.trf1.jus.br.
+- [Www10](https://www10.trf2.jus.br/ai/](https://www10.trf2.jus.br/ai/) — Ferramenta ou serviço fornecido pelo domínio www10.trf2.jus.br.
+- [Trf3](https://www.trf3.jus.br/transparencia/](https://www.trf3.jus.br/transparencia/) — Ferramenta ou serviço fornecido pelo domínio www.trf3.jus.br.
+- [Trf4](https://www.trf4.jus.br/trf4/controlador.php?acao=pagina_visualizar&id_pagina=2037](https://www.trf4.jus.br/trf4/controlador.php?acao=pagina_visualizar&id_pagina=2037) — Ferramenta ou serviço fornecido pelo domínio www.trf4.jus.br.
+- [Trf5](https://www.trf5.jus.br/index.php/portal-da-transparencia](https://www.trf5.jus.br/index.php/portal-da-transparencia) — Ferramenta ou serviço fornecido pelo domínio www.trf5.jus.br.
+- [Tjac](https://www.tjac.jus.br/portal-da-transparencia/](https://www.tjac.jus.br/portal-da-transparencia/) — Ferramenta ou serviço fornecido pelo domínio www.tjac.jus.br.
+- [Tjal](https://www.tjal.jus.br/?pag=TransparenciaTJAL/Transparencia](https://www.tjal.jus.br/?pag=TransparenciaTJAL/Transparencia) — Ferramenta ou serviço fornecido pelo domínio www.tjal.jus.br.
+- [Tjap](https://www.tjap.jus.br/portal/apresentacao.html](https://www.tjap.jus.br/portal/apresentacao.html) — Ferramenta ou serviço fornecido pelo domínio www.tjap.jus.br.
+- [Tjam](https://www.tjam.jus.br/index.php/transparencia](https://www.tjam.jus.br/index.php/transparencia) — Ferramenta ou serviço fornecido pelo domínio www.tjam.jus.br.
+- [Www5](http://www5.tjba.jus.br/portal/transparencia-2/](http://www5.tjba.jus.br/portal/transparencia-2/) — Ferramenta ou serviço fornecido pelo domínio www5.tjba.jus.br.
+- [Tjce](https://www.tjce.jus.br/transparencia/](https://www.tjce.jus.br/transparencia/) — Ferramenta ou serviço fornecido pelo domínio www.tjce.jus.br.
+- [Tjdft](https://www.tjdft.jus.br/transparencia](https://www.tjdft.jus.br/transparencia) — Ferramenta ou serviço fornecido pelo domínio www.tjdft.jus.br.
+- [Tjes](http://www.tjes.jus.br/portal-da-transparencia/](http://www.tjes.jus.br/portal-da-transparencia/) — Ferramenta ou serviço fornecido pelo domínio www.tjes.jus.br.
+- [Tjma](https://www.tjma.jus.br/financas/index.php?acao_portal=inicial_040101](https://www.tjma.jus.br/financas/index.php?acao_portal=inicial_040101) — Ferramenta ou serviço fornecido pelo domínio www.tjma.jus.br.
+- [Tjmt](http://www.tjmt.jus.br/AcessoInformacao/C/26364/#.YMiwTvlKiUk](http://www.tjmt.jus.br/AcessoInformacao/C/26364/#.YMiwTvlKiUk) — Ferramenta ou serviço fornecido pelo domínio www.tjmt.jus.br.
+- [Www5](https://www5.tjms.jus.br/transparencia/](https://www5.tjms.jus.br/transparencia/) — Ferramenta ou serviço fornecido pelo domínio www5.tjms.jus.br.
+- [Tjmg](https://www.tjmg.jus.br/portal-tjmg/transparencia/](https://www.tjmg.jus.br/portal-tjmg/transparencia/) — Ferramenta ou serviço fornecido pelo domínio www.tjmg.jus.br.
+- [Tjpa](http://www.tjpa.jus.br/PortalExterno/transparencia/](http://www.tjpa.jus.br/PortalExterno/transparencia/) — Ferramenta ou serviço fornecido pelo domínio www.tjpa.jus.br.
+- [Tjpb](https://www.tjpb.jus.br/transparencia](https://www.tjpb.jus.br/transparencia) — Ferramenta ou serviço fornecido pelo domínio www.tjpb.jus.br.
+- [Tjpr](https://www.tjpr.jus.br/gestao-de-pessoas](https://www.tjpr.jus.br/gestao-de-pessoas) — Ferramenta ou serviço fornecido pelo domínio www.tjpr.jus.br.
+- [Tjpe](https://www.tjpe.jus.br/web/transparencia](https://www.tjpe.jus.br/web/transparencia) — Ferramenta ou serviço fornecido pelo domínio www.tjpe.jus.br.
+- [Transparencia](http://transparencia.tjpi.jus.br/](http://transparencia.tjpi.jus.br/) — Ferramenta ou serviço fornecido pelo domínio transparencia.tjpi.jus.br.
+- [Tjrj](http://www.tjrj.jus.br/web/guest/transparencia/apresentacao](http://www.tjrj.jus.br/web/guest/transparencia/apresentacao) — Ferramenta ou serviço fornecido pelo domínio www.tjrj.jus.br.
+- [Transparencia](https://transparencia.tjrs.jus.br/transparencia_tjrs/index.php](https://transparencia.tjrs.jus.br/transparencia_tjrs/index.php) — Ferramenta ou serviço fornecido pelo domínio transparencia.tjrs.jus.br.
