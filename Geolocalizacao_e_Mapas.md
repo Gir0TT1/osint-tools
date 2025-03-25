@@ -24,4 +24,3 @@
 - - [https://www.wifimap.io/](https://www.wifimap.io/)
 
 ## IP Geolocation
-

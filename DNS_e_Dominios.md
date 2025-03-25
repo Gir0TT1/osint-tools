@@ -20,4 +20,3 @@
 ## Certificados SSL
 
 - - [https://crt.sh/?q=%25.domain.com](https://crt.sh/?q=%25.domain.com)
-
