@@ -1,13 +1,18 @@
-# Metadados
+# Metadados (OSINT)
 
-- [Metager](https://metager.org](https://metager.org) — Ferramenta ou serviço fornecido pelo domínio metager.org.
-- [Metaphor](https://metaphor.systems](https://metaphor.systems) — Ferramenta ou serviço fornecido pelo domínio metaphor.systems.
-- [Thexifer](https://www.thexifer.net](https://www.thexifer.net) — Ferramenta ou serviço fornecido pelo domínio www.thexifer.net.
-- [Verexif](http://www.verexif.com](http://www.verexif.com) — Ferramenta ou serviço fornecido pelo domínio www.verexif.com.
-- [Exifdata](https://exifdata.com/](https://exifdata.com/) — Ferramenta ou serviço fornecido pelo domínio exifdata.com.
-- [Exif](https://exif.tools/](https://exif.tools/) — Ferramenta ou serviço fornecido pelo domínio exif.tools.
-- [Metacleaner](https://www.metacleaner.com/#home](https://www.metacleaner.com/#home) — Ferramenta ou serviço fornecido pelo domínio www.metacleaner.com.
-- [Extractmetadata](https://www.extractmetadata.com/](https://www.extractmetadata.com/) — Ferramenta ou serviço fornecido pelo domínio www.extractmetadata.com.
-- [Metadataviewer](https://metadataviewer.herokuapp.com/](https://metadataviewer.herokuapp.com/) — Ferramenta ou serviço fornecido pelo domínio metadataviewer.herokuapp.com.
-- [Github](https://github.com/chriswmorris/Metaforge](https://github.com/chriswmorris/Metaforge) — Ferramenta ou serviço fornecido pelo domínio github.com.
-- [Addons](https://addons.mozilla.org/en-US/firefox/addon/exif-viewer/](https://addons.mozilla.org/en-US/firefox/addon/exif-viewer/) — Ferramenta ou serviço fornecido pelo domínio addons.mozilla.org.
+## Visualizadores de Metadados
+- [MetaGer](https://metager.org) - Mecanismo de busca focado em privacidade que preserva metadados.
+- [ExifData](https://exifdata.com) - Visualizador online completo de metadados EXIF de imagens.
+- [Exif.tools](https://exif.tools) - Ferramenta simples para extração e análise de metadados.
+- [Verexif](http://www.verexif.com) - Visualizador online de metadados EXIF de fotos.
+- [Metadata Viewer](https://metadataviewer.herokuapp.com) - Analisador web de metadados de arquivos.
+
+## Editores e Limpeza de Metadados
+- [Thexifer](https://www.thexifer.net) - Editor avançado de metadados EXIF, GPS e IPTC.
+- [MetaCleaner](https://www.metacleaner.com) - Remove metadados sensíveis de documentos e imagens.
+- [ExtractMetadata](https://www.extractmetadata.com) - Extrai e remove metadados de vários formatos de arquivo.
+
+## Ferramentas Especializadas
+- [MetaForge](https://github.com/chriswmorris/Metaforge) - Framework Python para análise forense de metadados.
+- [EXIF Viewer (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/exif-viewer/) - Extensão para visualizar metadados diretamente no navegador.
+- [Metaphor Systems](https://metaphor.systems) - Plataforma avançada para análise de metadados em investigações.

@@ -1,10 +1,22 @@
-# Telefones
+# Telefones (OSINT)
 
-- [Informacoes](https://informacoes.anatel.gov.br/paineis/](https://informacoes.anatel.gov.br/paineis/) — Ferramenta ou serviço fornecido pelo domínio informacoes.anatel.gov.br.
-- [Sistemas](http://sistemas.anatel.gov.br/siec-servico-movel-web/](http://sistemas.anatel.gov.br/siec-servico-movel-web/) — Ferramenta ou serviço fornecido pelo domínio sistemas.anatel.gov.br.
-- [Gov](https://www.gov.br/anatel/pt-br/assuntos/celular-legal](https://www.gov.br/anatel/pt-br/assuntos/celular-legal) — Ferramenta ou serviço fornecido pelo domínio www.gov.br.
-- [Sistemas](https://sistemas.anatel.gov.br/fiqueligado/index.html?bounds=-15,-57&zoom=4](https://sistemas.anatel.gov.br/fiqueligado/index.html?bounds=-15,-57&zoom=4) — Ferramenta ou serviço fornecido pelo domínio sistemas.anatel.gov.br.
-- [Freeonlinephone](https://www.freeonlinephone.org](https://www.freeonlinephone.org) — Ferramenta ou serviço fornecido pelo domínio www.freeonlinephone.org.
-- [Getfreesmsnumber](https://getfreesmsnumber.com](https://getfreesmsnumber.com) — Ferramenta ou serviço fornecido pelo domínio getfreesmsnumber.com.
-- [Phonebook](https://phonebook.cz](https://phonebook.cz) — Ferramenta ou serviço fornecido pelo domínio phonebook.cz.
-- [Rapidtables](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html) — Ferramenta ou serviço fornecido pelo domínio www.rapidtables.com.
+## Ferramentas Oficiais (Brasil)
+- [Painéis ANATEL](https://informacoes.anatel.gov.br/paineis/) - Dados oficiais sobre telecomunicações no Brasil.
+- [SIEC Móvel](http://sistemas.anatel.gov.br/siec-servico-movel-web/) - Sistema de informações sobre serviços móveis.
+- [Celular Legal](https://www.gov.br/anatel/pt-br/assuntos/celular-legal) - Informações sobre registro de aparelhos celulares.
+- [Fique Ligado ANATEL](https://sistemas.anatel.gov.br/fiqueligado/) - Mapa de cobertura e qualidade de serviços.
+
+## Busca por Números Telefônicos
+- [Phonebook.cz](https://phonebook.cz) - Busca por números vinculados a vazamentos de dados.
+- [Numspy](https://www.numspy.com) - Busca reversa de números internacionais.
+- [Sync.me](https://sync.me) - Identificador de chamadas e busca reversa.
+
+## Números Temporários e SMS
+- [FreeOnlinePhone](https://www.freeonlinephone.org) - Oferece números temporários para receber SMS.
+- [GetFreeSMSNumber](https://getfreesmsnumber.com) - Lista de números descartáveis para verificação.
+- [Receive-SMS](https://receive-sms.com) - Números virtuais para recebimento de SMS.
+
+## Ferramentas Técnicas
+- [RapidTables Conversor](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html) - Conversor entre diferentes formatos numéricos.
+- [Twilio Lookup](https://www.twilio.com/lookup) - Verificação avançada de números telefônicos.
+- [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) - Scanner avançado de números (auto-hospedado).

@@ -1,22 +1,29 @@
 # DNS e Domínios
 
-## Consultas de DNS
+## 🔍 Consultas de DNS
 
-- [Dnstwister](https://dnstwister.report](https://dnstwister.report) — Ferramenta ou serviço fornecido pelo domínio dnstwister.report.
-- [Rapiddns](https://rapiddns.io/subdomain](https://rapiddns.io/subdomain) — Ferramenta ou serviço fornecido pelo domínio rapiddns.io.
-- [Dnsdumpster](https://dnsdumpster.com](https://dnsdumpster.com) — Ferramenta de mapeamento de DNS que mostra registros públicos e servidores associados a um domínio.
-- [Searchdns](https://searchdns.netcraft.com/](https://searchdns.netcraft.com/) — Ferramenta ou serviço fornecido pelo domínio searchdns.netcraft.com.
-- [Viewdns](https://viewdns.info](https://viewdns.info) — Ferramenta ou serviço fornecido pelo domínio viewdns.info.
-- [Dnshistory](https://dnshistory.org](https://dnshistory.org) — Serviço que exibe o histórico de mudanças de registros DNS para domínios.
-- [Passivedns](https://passivedns.mnemonic.no](https://passivedns.mnemonic.no) — Ferramenta ou serviço fornecido pelo domínio passivedns.mnemonic.no.
-- [Osint](https://osint.sh/dnshistory/](https://osint.sh/dnshistory/) — Serviço que exibe o histórico de mudanças de registros DNS para domínios.
-- [Intodns](https://intodns.com](https://intodns.com) — Ferramenta ou serviço fornecido pelo domínio intodns.com.
-- [Whatsmydns](https://www.whatsmydns.net/](https://www.whatsmydns.net/) — Ferramenta ou serviço fornecido pelo domínio www.whatsmydns.net.
-- [Rapiddns](https://rapiddns.io/tools](https://rapiddns.io/tools) — Ferramenta ou serviço fornecido pelo domínio rapiddns.io.
-- [Completedns](https://completedns.com/dns-history/](https://completedns.com/dns-history/) — Ferramenta ou serviço fornecido pelo domínio completedns.com.
-- [Rapiddns](https://rapiddns.io/sameip](https://rapiddns.io/sameip) — Ferramenta ou serviço fornecido pelo domínio rapiddns.io.
-- [Dnsleaktest](https://dnsleaktest.com](https://dnsleaktest.com) — Ferramenta ou serviço fornecido pelo domínio dnsleaktest.com.
+### Ferramentas de Análise
+- [DNS Twister](https://dnstwister.report) - Detecta domínios similares e possíveis tentativas de phishing
+- [DNS Dumpster](https://dnsdumpster.com) - Mapeamento completo de infraestrutura DNS e relacionamentos entre domínios
+- [Intodns](https://intodns.com) - Verifica a configuração DNS e identifica problemas comuns
+- [ViewDNS](https://viewdns.info) - Oferece múltiplas ferramentas de investigação DNS em um único painel
 
-## Certificados SSL
+### Histórico e Monitoramento
+- [DNS History](https://dnshistory.org) - Consulta alterações históricas em registros DNS
+- [PassiveDNS](https://passivedns.mnemonic.no) - Banco de dados de consultas DNS passivas
+- [CompleteDNS](https://completedns.com/dns-history/) - Histórico de alterações de DNS com visualização temporal
 
-- [Crt](https://crt.sh/?q=%25.domain.com](https://crt.sh/?q=%25.domain.com) — Ferramenta para pesquisa de certificados SSL públicos e monitoramento de emissão.
+### Subdomínios e Infraestrutura
+- [RapidDNS](https://rapiddns.io/subdomain) - Enumerador de subdomínios com filtros avançados
+- [SearchDNS (Netcraft)](https://searchdns.netcraft.com/) - Identifica hosts e serviços associados a domínios
+- [RapidDNS SameIP](https://rapiddns.io/sameip) - Encontra domínios compartilhando o mesmo endereço IP
+
+### Testes e Diagnóstico
+- [WhatsMyDNS](https://www.whatsmydns.net/) - Verifica a propagação global de registros DNS
+- [DNS Leak Test](https://dnsleaktest.com) - Identifica vazamentos de consultas DNS
+- [OSINT.sh DNS](https://osint.sh/dnshistory/) - Ferramenta OSINT para análise de histórico DNS
+
+## 🔐 Certificados SSL/TLS
+
+- [crt.sh](https://crt.sh) - Banco de dados de certificados SSL/TLS com busca avançada por domínios
+  - Exemplo: `https://crt.sh/?q=%.example.com` para buscar subdomínios
